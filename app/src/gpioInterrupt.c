@@ -73,6 +73,22 @@ char* itoa(int value, char* result, int base) {
 }
 
 
+void obtenerDatos()
+{
+    uint8_t dataToReadBuffer;
+    char xresult;
+    char buff[10];
+   dataToReadBuffer = 0x00;
+   i2cRead( I2C0, 0x01,
+            &dataToReadBuffer, 1, TRUE,
+            &xresult, 4, TRUE );
+    
+    //itoa(xresult,buff,10);
+    uartWriteString(UART_USB,&xresult);
+    //uartWriteString(UART_USB,buff);
+
+}
+
 
 /*==================[Maquina de Estados]====================*/
 void STATE_MACHINE()
@@ -183,6 +199,7 @@ void STATE_MACHINE()
   		case 11:
   			if(check_state(0,0,1)){
   				STATE = 0;
+                obtenerDatos();
   			}
         else
           {
@@ -250,6 +267,8 @@ int main( void ){
 
     gpioConfig( PIN_2, GPIO_INPUT);
     gpioConfig( PIN_3, GPIO_INPUT);
+    
+    i2cConfig( I2C0, 100000 );
     uartConfig( UART_USB, 115200 );
     
     gpioWrite(LEDB,gpioRead(PIN_1));
