@@ -9607,25 +9607,25 @@ END GROUP
                 0x53ff6876                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
 OUTPUT(out/program.elf elf32-littlearm)
 
-.debug_info     0x00000000     0xd749
- .debug_info    0x00000000     0x1bc6 out/app/src/gpioInterrupt.o
- .debug_info    0x00001bc6      0xcc4 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_info    0x0000288a     0x18f5 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_info    0x0000417f      0x14c out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_info    0x000042cb      0x4b8 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_info    0x00004783      0xaf6 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_info    0x00005279     0x1687 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_info    0x00006900     0x18dc out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_info    0x000081dc      0xc83 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_info    0x00008e5f      0x2dd out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_info    0x0000913c       0x3f out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_info    0x0000917b       0xf8 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_info    0x00009273      0x5ee out/libs/sapi/src/sapi_board.o
- .debug_info    0x00009861       0xff out/libs/sapi/src/sapi_datatypes.o
- .debug_info    0x00009960     0x11b3 out/libs/sapi/src/sapi_gpio.o
- .debug_info    0x0000ab13      0xc04 out/libs/sapi/src/sapi_tick.o
- .debug_info    0x0000b717     0x1427 out/libs/sapi/src/sapi_timer.o
- .debug_info    0x0000cb3e      0xc0b out/libs/sapi/src/sapi_uart.o
+.debug_info     0x00000000     0xd74a
+ .debug_info    0x00000000     0x1bc7 out/app/src/gpioInterrupt.o
+ .debug_info    0x00001bc7      0xcc4 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_info    0x0000288b     0x18f5 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_info    0x00004180      0x14c out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_info    0x000042cc      0x4b8 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_info    0x00004784      0xaf6 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_info    0x0000527a     0x1687 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_info    0x00006901     0x18dc out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_info    0x000081dd      0xc83 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_info    0x00008e60      0x2dd out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_info    0x0000913d       0x3f out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_info    0x0000917c       0xf8 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_info    0x00009274      0x5ee out/libs/sapi/src/sapi_board.o
+ .debug_info    0x00009862       0xff out/libs/sapi/src/sapi_datatypes.o
+ .debug_info    0x00009961     0x11b3 out/libs/sapi/src/sapi_gpio.o
+ .debug_info    0x0000ab14      0xc04 out/libs/sapi/src/sapi_tick.o
+ .debug_info    0x0000b718     0x1427 out/libs/sapi/src/sapi_timer.o
+ .debug_info    0x0000cb3f      0xc0b out/libs/sapi/src/sapi_uart.o
 
 .debug_abbrev   0x00000000     0x249f
  .debug_abbrev  0x00000000      0x3a4 out/app/src/gpioInterrupt.o
@@ -9831,25 +9831,25 @@ OUTPUT(out/program.elf elf32-littlearm)
  .debug_macro   0x00008567      0x410 out/libs/sapi/src/sapi_timer.o
  .debug_macro   0x00008977      0x43c out/libs/sapi/src/sapi_uart.o
 
-.debug_line     0x00000000     0x81a2
- .debug_line    0x00000000      0xa4d out/app/src/gpioInterrupt.o
- .debug_line    0x00000a4d      0x6cb out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_line    0x00001118      0xa74 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_line    0x00001b8c      0x286 out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_line    0x00001e12      0x6f0 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_line    0x00002502      0x73f out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_line    0x00002c41      0x961 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_line    0x000035a2      0x90e out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_line    0x00003eb0      0x7c3 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_line    0x00004673      0x11c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_line    0x0000478f       0x47 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_line    0x000047d6      0x76e out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_line    0x00004f44      0x7e1 out/libs/sapi/src/sapi_board.o
- .debug_line    0x00005725      0x781 out/libs/sapi/src/sapi_datatypes.o
- .debug_line    0x00005ea6      0x89a out/libs/sapi/src/sapi_gpio.o
- .debug_line    0x00006740      0x7e3 out/libs/sapi/src/sapi_tick.o
- .debug_line    0x00006f23      0x977 out/libs/sapi/src/sapi_timer.o
- .debug_line    0x0000789a      0x908 out/libs/sapi/src/sapi_uart.o
+.debug_line     0x00000000     0x81a3
+ .debug_line    0x00000000      0xa4e out/app/src/gpioInterrupt.o
+ .debug_line    0x00000a4e      0x6cb out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_line    0x00001119      0xa74 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_line    0x00001b8d      0x286 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_line    0x00001e13      0x6f0 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_line    0x00002503      0x73f out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_line    0x00002c42      0x961 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_line    0x000035a3      0x90e out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_line    0x00003eb1      0x7c3 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_line    0x00004674      0x11c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_line    0x00004790       0x47 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_line    0x000047d7      0x76e out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_line    0x00004f45      0x7e1 out/libs/sapi/src/sapi_board.o
+ .debug_line    0x00005726      0x781 out/libs/sapi/src/sapi_datatypes.o
+ .debug_line    0x00005ea7      0x89a out/libs/sapi/src/sapi_gpio.o
+ .debug_line    0x00006741      0x7e3 out/libs/sapi/src/sapi_tick.o
+ .debug_line    0x00006f24      0x977 out/libs/sapi/src/sapi_timer.o
+ .debug_line    0x0000789b      0x908 out/libs/sapi/src/sapi_uart.o
 
 .debug_str      0x00000000    0x1d2cf
  .debug_str     0x00000000    0x19d4b out/app/src/gpioInterrupt.o

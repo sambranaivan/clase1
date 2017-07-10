@@ -54,27 +54,27 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS
  17 .noinit       00000000  10000070  10000070  0002004c  2**2
                   CONTENTS
- 18 .debug_info   0000d749  00000000  00000000  0002004c  2**0
+ 18 .debug_info   0000d74a  00000000  00000000  0002004c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 19 .debug_abbrev 0000249f  00000000  00000000  0002d795  2**0
+ 19 .debug_abbrev 0000249f  00000000  00000000  0002d796  2**0
                   CONTENTS, READONLY, DEBUGGING
- 20 .debug_loc    0000413b  00000000  00000000  0002fc34  2**0
+ 20 .debug_loc    0000413b  00000000  00000000  0002fc35  2**0
                   CONTENTS, READONLY, DEBUGGING
- 21 .debug_aranges 000005f0  00000000  00000000  00033d6f  2**0
+ 21 .debug_aranges 000005f0  00000000  00000000  00033d70  2**0
                   CONTENTS, READONLY, DEBUGGING
- 22 .debug_ranges 000004e0  00000000  00000000  0003435f  2**0
+ 22 .debug_ranges 000004e0  00000000  00000000  00034360  2**0
                   CONTENTS, READONLY, DEBUGGING
- 23 .debug_macro  00008db3  00000000  00000000  0003483f  2**0
+ 23 .debug_macro  00008db3  00000000  00000000  00034840  2**0
                   CONTENTS, READONLY, DEBUGGING
- 24 .debug_line   000081a2  00000000  00000000  0003d5f2  2**0
+ 24 .debug_line   000081a3  00000000  00000000  0003d5f3  2**0
                   CONTENTS, READONLY, DEBUGGING
- 25 .debug_str    0001d2cf  00000000  00000000  00045794  2**0
+ 25 .debug_str    0001d2cf  00000000  00000000  00045796  2**0
                   CONTENTS, READONLY, DEBUGGING
- 26 .comment      000000ef  00000000  00000000  00062a63  2**0
+ 26 .comment      000000ef  00000000  00000000  00062a65  2**0
                   CONTENTS, READONLY
- 27 .ARM.attributes 00000039  00000000  00000000  00062b52  2**0
+ 27 .ARM.attributes 00000039  00000000  00000000  00062b54  2**0
                   CONTENTS, READONLY
- 28 .debug_frame  00000db4  00000000  00000000  00062b8c  2**2
+ 28 .debug_frame  00000db4  00000000  00000000  00062b90  2**2
                   CONTENTS, READONLY, DEBUGGING
 SYMBOL TABLE:
 1a000000 l    d  .text	00000000 .text
@@ -626,7 +626,7 @@ int check_state(int p1,int p2, int p3)
 1a0003b0 <STATE_MACHINE>:
 {
 1a0003b0:	b508      	push	{r3, lr}
-switch (STATE)
+  switch (STATE)
 1a0003b2:	4b74      	ldr	r3, [pc, #464]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0003b4:	681b      	ldr	r3, [r3, #0]
 1a0003b6:	2b0d      	cmp	r3, #13
@@ -639,236 +639,236 @@ switch (STATE)
 1a0003d0:	008c007e 	.word	0x008c007e
 1a0003d4:	00a8009a 	.word	0x00a8009a
 1a0003d8:	00d000b6 	.word	0x00d000b6
-			if(check_state(1,0,0)){
+  			if(check_state(1,0,0)){
 1a0003dc:	2200      	movs	r2, #0
 1a0003de:	4611      	mov	r1, r2
 1a0003e0:	2001      	movs	r0, #1
 1a0003e2:	f7ff ffc5 	bl	1a000370 <check_state>
 1a0003e6:	b118      	cbz	r0, 1a0003f0 <STATE_MACHINE+0x40>
-				STATE = 1;
+  				STATE = 1;
 1a0003e8:	2201      	movs	r2, #1
 1a0003ea:	4b66      	ldr	r3, [pc, #408]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0003ec:	601a      	str	r2, [r3, #0]
 1a0003ee:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a0003f0:	220d      	movs	r2, #13
 1a0003f2:	4b64      	ldr	r3, [pc, #400]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0003f4:	601a      	str	r2, [r3, #0]
 1a0003f6:	bd08      	pop	{r3, pc}
-			if(check_state (0,0,0)){
+  			if(check_state (0,0,0)){
 1a0003f8:	2200      	movs	r2, #0
 1a0003fa:	4611      	mov	r1, r2
 1a0003fc:	4610      	mov	r0, r2
 1a0003fe:	f7ff ffb7 	bl	1a000370 <check_state>
 1a000402:	b118      	cbz	r0, 1a00040c <STATE_MACHINE+0x5c>
-				STATE = 2;
+  				STATE = 2;
 1a000404:	2202      	movs	r2, #2
 1a000406:	4b5f      	ldr	r3, [pc, #380]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000408:	601a      	str	r2, [r3, #0]
 1a00040a:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a00040c:	220d      	movs	r2, #13
 1a00040e:	4b5d      	ldr	r3, [pc, #372]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000410:	601a      	str	r2, [r3, #0]
 1a000412:	bd08      	pop	{r3, pc}
-			if(check_state(1,1,0)){
+  			if(check_state(1,1,0)){
 1a000414:	2200      	movs	r2, #0
 1a000416:	2101      	movs	r1, #1
 1a000418:	4608      	mov	r0, r1
 1a00041a:	f7ff ffa9 	bl	1a000370 <check_state>
 1a00041e:	b118      	cbz	r0, 1a000428 <STATE_MACHINE+0x78>
-				STATE = 3;
+  				STATE = 3;
 1a000420:	2203      	movs	r2, #3
 1a000422:	4b58      	ldr	r3, [pc, #352]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000424:	601a      	str	r2, [r3, #0]
 1a000426:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000428:	220d      	movs	r2, #13
 1a00042a:	4b56      	ldr	r3, [pc, #344]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a00042c:	601a      	str	r2, [r3, #0]
 1a00042e:	bd08      	pop	{r3, pc}
-			if(check_state(0,1,0)){
+  			if(check_state(0,1,0)){
 1a000430:	2200      	movs	r2, #0
 1a000432:	2101      	movs	r1, #1
 1a000434:	4610      	mov	r0, r2
 1a000436:	f7ff ff9b 	bl	1a000370 <check_state>
 1a00043a:	b118      	cbz	r0, 1a000444 <STATE_MACHINE+0x94>
-				STATE = 4;
+  				STATE = 4;
 1a00043c:	2204      	movs	r2, #4
 1a00043e:	4b51      	ldr	r3, [pc, #324]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000440:	601a      	str	r2, [r3, #0]
 1a000442:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000444:	220d      	movs	r2, #13
 1a000446:	4b4f      	ldr	r3, [pc, #316]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000448:	601a      	str	r2, [r3, #0]
 1a00044a:	bd08      	pop	{r3, pc}
-			if(check_state(1,0,0)){
+  			if(check_state(1,0,0)){
 1a00044c:	2200      	movs	r2, #0
 1a00044e:	4611      	mov	r1, r2
 1a000450:	2001      	movs	r0, #1
 1a000452:	f7ff ff8d 	bl	1a000370 <check_state>
 1a000456:	b118      	cbz	r0, 1a000460 <STATE_MACHINE+0xb0>
-				STATE = 5;
+  				STATE = 5;
 1a000458:	2205      	movs	r2, #5
 1a00045a:	4b4a      	ldr	r3, [pc, #296]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a00045c:	601a      	str	r2, [r3, #0]
 1a00045e:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000460:	220d      	movs	r2, #13
 1a000462:	4b48      	ldr	r3, [pc, #288]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000464:	601a      	str	r2, [r3, #0]
 1a000466:	bd08      	pop	{r3, pc}
-			if(check_state(0,0,0)){
+  			if(check_state(0,0,0)){
 1a000468:	2200      	movs	r2, #0
 1a00046a:	4611      	mov	r1, r2
 1a00046c:	4610      	mov	r0, r2
 1a00046e:	f7ff ff7f 	bl	1a000370 <check_state>
 1a000472:	b118      	cbz	r0, 1a00047c <STATE_MACHINE+0xcc>
-				STATE = 6;
+  				STATE = 6;
 1a000474:	2206      	movs	r2, #6
 1a000476:	4b43      	ldr	r3, [pc, #268]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000478:	601a      	str	r2, [r3, #0]
 1a00047a:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a00047c:	220d      	movs	r2, #13
 1a00047e:	4b41      	ldr	r3, [pc, #260]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000480:	601a      	str	r2, [r3, #0]
 1a000482:	bd08      	pop	{r3, pc}
-			if(check_state(1,0,0)){
+  			if(check_state(1,0,0)){
 1a000484:	2200      	movs	r2, #0
 1a000486:	4611      	mov	r1, r2
 1a000488:	2001      	movs	r0, #1
 1a00048a:	f7ff ff71 	bl	1a000370 <check_state>
 1a00048e:	b118      	cbz	r0, 1a000498 <STATE_MACHINE+0xe8>
-				STATE = 7;
+  				STATE = 7;
 1a000490:	2207      	movs	r2, #7
 1a000492:	4b3c      	ldr	r3, [pc, #240]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000494:	601a      	str	r2, [r3, #0]
 1a000496:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000498:	220d      	movs	r2, #13
 1a00049a:	4b3a      	ldr	r3, [pc, #232]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a00049c:	601a      	str	r2, [r3, #0]
 1a00049e:	bd08      	pop	{r3, pc}
-			if(check_state(0,0,0)){
+  			if(check_state(0,0,0)){
 1a0004a0:	2200      	movs	r2, #0
 1a0004a2:	4611      	mov	r1, r2
 1a0004a4:	4610      	mov	r0, r2
 1a0004a6:	f7ff ff63 	bl	1a000370 <check_state>
 1a0004aa:	b118      	cbz	r0, 1a0004b4 <STATE_MACHINE+0x104>
-				STATE = 8;
+  				STATE = 8;
 1a0004ac:	2208      	movs	r2, #8
 1a0004ae:	4b35      	ldr	r3, [pc, #212]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004b0:	601a      	str	r2, [r3, #0]
 1a0004b2:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a0004b4:	220d      	movs	r2, #13
 1a0004b6:	4b33      	ldr	r3, [pc, #204]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004b8:	601a      	str	r2, [r3, #0]
 1a0004ba:	bd08      	pop	{r3, pc}
-			if(check_state(1,0,0)){
+  			if(check_state(1,0,0)){
 1a0004bc:	2200      	movs	r2, #0
 1a0004be:	4611      	mov	r1, r2
 1a0004c0:	2001      	movs	r0, #1
 1a0004c2:	f7ff ff55 	bl	1a000370 <check_state>
 1a0004c6:	b118      	cbz	r0, 1a0004d0 <STATE_MACHINE+0x120>
-				STATE = 9;
+  				STATE = 9;
 1a0004c8:	2209      	movs	r2, #9
 1a0004ca:	4b2e      	ldr	r3, [pc, #184]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004cc:	601a      	str	r2, [r3, #0]
 1a0004ce:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a0004d0:	220d      	movs	r2, #13
 1a0004d2:	4b2c      	ldr	r3, [pc, #176]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004d4:	601a      	str	r2, [r3, #0]
 1a0004d6:	bd08      	pop	{r3, pc}
-			if(check_state(0,0,0)){
+  			if(check_state(0,0,0)){
 1a0004d8:	2200      	movs	r2, #0
 1a0004da:	4611      	mov	r1, r2
 1a0004dc:	4610      	mov	r0, r2
 1a0004de:	f7ff ff47 	bl	1a000370 <check_state>
 1a0004e2:	b118      	cbz	r0, 1a0004ec <STATE_MACHINE+0x13c>
-				STATE = 10;
+  				STATE = 10;
 1a0004e4:	220a      	movs	r2, #10
 1a0004e6:	4b27      	ldr	r3, [pc, #156]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004e8:	601a      	str	r2, [r3, #0]
 1a0004ea:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a0004ec:	220d      	movs	r2, #13
 1a0004ee:	4b25      	ldr	r3, [pc, #148]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a0004f0:	601a      	str	r2, [r3, #0]
 1a0004f2:	bd08      	pop	{r3, pc}
-			if(check_state(1,0,1)){
+  			if(check_state(1,0,1)){
 1a0004f4:	2201      	movs	r2, #1
 1a0004f6:	2100      	movs	r1, #0
 1a0004f8:	4610      	mov	r0, r2
 1a0004fa:	f7ff ff39 	bl	1a000370 <check_state>
 1a0004fe:	b118      	cbz	r0, 1a000508 <STATE_MACHINE+0x158>
-				STATE = 11;
+  				STATE = 11;
 1a000500:	220b      	movs	r2, #11
 1a000502:	4b20      	ldr	r3, [pc, #128]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000504:	601a      	str	r2, [r3, #0]
 1a000506:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000508:	220d      	movs	r2, #13
 1a00050a:	4b1e      	ldr	r3, [pc, #120]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a00050c:	601a      	str	r2, [r3, #0]
 1a00050e:	bd08      	pop	{r3, pc}
-			if(check_state(0,0,1)){
+  			if(check_state(0,0,1)){
 1a000510:	2201      	movs	r2, #1
 1a000512:	2100      	movs	r1, #0
 1a000514:	4608      	mov	r0, r1
 1a000516:	f7ff ff2b 	bl	1a000370 <check_state>
 1a00051a:	b118      	cbz	r0, 1a000524 <STATE_MACHINE+0x174>
-				STATE = 0;
+  				STATE = 0;
 1a00051c:	2200      	movs	r2, #0
 1a00051e:	4b19      	ldr	r3, [pc, #100]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000520:	601a      	str	r2, [r3, #0]
 1a000522:	bd08      	pop	{r3, pc}
-          STATE = 13;
+            STATE = 13;
 1a000524:	220d      	movs	r2, #13
 1a000526:	4b17      	ldr	r3, [pc, #92]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a000528:	601a      	str	r2, [r3, #0]
 1a00052a:	bd08      	pop	{r3, pc}
-        if(check_state(0,0,1))
+          if(check_state(0,0,1))
 1a00052c:	2201      	movs	r2, #1
 1a00052e:	2100      	movs	r1, #0
 1a000530:	4608      	mov	r0, r1
 1a000532:	f7ff ff1d 	bl	1a000370 <check_state>
 1a000536:	b318      	cbz	r0, 1a000580 <STATE_MACHINE+0x1d0>
-            gpioWrite(LEDB,OFF);
+              gpioWrite(LEDB,OFF);
 1a000538:	2100      	movs	r1, #0
 1a00053a:	202a      	movs	r0, #42	; 0x2a
 1a00053c:	f000 fef0 	bl	1a001320 <gpioWrite>
-            gpioWrite(LEDG,!gpioRead(PIN_1));
+              gpioWrite(LEDG,!gpioRead(PIN_1));
 1a000540:	2020      	movs	r0, #32
 1a000542:	f000 ff19 	bl	1a001378 <gpioRead>
 1a000546:	fab0 f180 	clz	r1, r0
 1a00054a:	0949      	lsrs	r1, r1, #5
 1a00054c:	2029      	movs	r0, #41	; 0x29
 1a00054e:	f000 fee7 	bl	1a001320 <gpioWrite>
-            LEDCONTROL = LEDG;
+              LEDCONTROL = LEDG;
 1a000552:	2229      	movs	r2, #41	; 0x29
 1a000554:	4b0c      	ldr	r3, [pc, #48]	; (1a000588 <STATE_MACHINE+0x1d8>)
 1a000556:	701a      	strb	r2, [r3, #0]
-            STATE = 0;
+              STATE = 0;
 1a000558:	2200      	movs	r2, #0
 1a00055a:	4b0a      	ldr	r3, [pc, #40]	; (1a000584 <STATE_MACHINE+0x1d4>)
 1a00055c:	601a      	str	r2, [r3, #0]
 1a00055e:	bd08      	pop	{r3, pc}
-        gpioWrite(LEDG,OFF);
+              gpioWrite(LEDG,OFF);
 1a000560:	2100      	movs	r1, #0
 1a000562:	2029      	movs	r0, #41	; 0x29
 1a000564:	f000 fedc 	bl	1a001320 <gpioWrite>
-            gpioWrite(LEDR,!gpioRead(PIN_1));
+              gpioWrite(LEDR,!gpioRead(PIN_1));
 1a000568:	2020      	movs	r0, #32
 1a00056a:	f000 ff05 	bl	1a001378 <gpioRead>
 1a00056e:	fab0 f180 	clz	r1, r0
 1a000572:	0949      	lsrs	r1, r1, #5
 1a000574:	2028      	movs	r0, #40	; 0x28
 1a000576:	f000 fed3 	bl	1a001320 <gpioWrite>
-            LEDCONTROL = LEDR;
+              LEDCONTROL = LEDR;
 1a00057a:	2228      	movs	r2, #40	; 0x28
 1a00057c:	4b02      	ldr	r3, [pc, #8]	; (1a000588 <STATE_MACHINE+0x1d8>)
 1a00057e:	701a      	strb	r2, [r3, #0]
