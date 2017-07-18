@@ -6,9 +6,8 @@
 
 /*==================[inlcusiones]============================================*/
 
-#include "programa.h"   // <= su propio archivo de cabecera
+#include "gpioInterrupt.h"   // <= su propio archivo de cabecera
 #include "sapi.h"       // <= Biblioteca sAPI
-
 #include "chip.h"       // <= Biblioteca LPCOpen, capa chip (del fabricante NXP)
 
 /*==================[definiciones y macros]==================================*/
