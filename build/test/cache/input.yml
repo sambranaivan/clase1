@@ -22,8 +22,7 @@
   - "+:test/**"
   - "-:test/support"
   :source:
-  - app/**
-  - libs/**
+  - src/**
   :support:
   - test/support
   :include: []
