@@ -20,6 +20,282 @@ tickRateMS          0x8               out/libs/sapi/src/sapi_tick.o
 
 Discarded input sections
 
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/checkState.o
+ .text          0x00000000        0x0 out/app/src/checkState.o
+ .data          0x00000000        0x0 out/app/src/checkState.o
+ .bss           0x00000000        0x0 out/app/src/checkState.o
+ .group         0x00000000        0x8 out/app/src/itoa.o
+ .text          0x00000000        0x0 out/app/src/itoa.o
+ .data          0x00000000        0x0 out/app/src/itoa.o
+ .bss           0x00000000        0x0 out/app/src/itoa.o
+ .text.itoa     0x00000000       0x64 out/app/src/itoa.o
+ .rodata.str1.4
+                0x00000000       0x48 out/app/src/itoa.o
+ .debug_info    0x00000000       0xbf out/app/src/itoa.o
+ .debug_abbrev  0x00000000       0x8e out/app/src/itoa.o
+ .debug_loc     0x00000000      0x107 out/app/src/itoa.o
+ .debug_aranges
+                0x00000000       0x20 out/app/src/itoa.o
+ .debug_ranges  0x00000000       0x10 out/app/src/itoa.o
+ .debug_macro   0x00000000       0x15 out/app/src/itoa.o
+ .debug_macro   0x00000000      0x892 out/app/src/itoa.o
+ .debug_line    0x00000000       0x8a out/app/src/itoa.o
+ .debug_str     0x00000000     0x253b out/app/src/itoa.o
+ .comment       0x00000000       0x6f out/app/src/itoa.o
+ .debug_frame   0x00000000       0x34 out/app/src/itoa.o
+ .ARM.attributes
+                0x00000000       0x39 out/app/src/itoa.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .group         0x00000000        0x8 out/app/src/obtenerDatos.o
+ .text          0x00000000        0x0 out/app/src/obtenerDatos.o
+ .data          0x00000000        0x0 out/app/src/obtenerDatos.o
+ .bss           0x00000000        0x0 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x892 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x22 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x87 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x44 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xfd out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x5e out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x1df out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x22 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x66 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x28 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x3b out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x2d out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x42 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0xd39 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x2bc out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x112 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x11 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x2a out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x2e6 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x82 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x13d out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x198 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x34 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x58 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x236 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x572 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x18a out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x88 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x1b9 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x1da out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x40 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x1c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x2e out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x2e out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x22 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x201 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xe0 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x34c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xdc out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xc4 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x94 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xb8 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x4c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x328 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x3a out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xd0 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x18 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x22 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x40 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x4c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x52 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x35 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x9c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x97 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x30d out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xfd out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x52 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x1f out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x43 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x20 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x187 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x1c out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x52 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x40 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x40 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0xd7 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000      0x18b out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x20 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x28 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x16 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x3a out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x10 out/app/src/obtenerDatos.o
+ .debug_macro   0x00000000       0x70 out/app/src/obtenerDatos.o
  .group         0x00000000        0x8 out/app/src/programa.o
  .group         0x00000000        0x8 out/app/src/programa.o
  .group         0x00000000        0x8 out/app/src/programa.o
@@ -106,9 +382,258 @@ Discarded input sections
  .text          0x00000000        0x0 out/app/src/programa.o
  .data          0x00000000        0x0 out/app/src/programa.o
  .bss           0x00000000        0x0 out/app/src/programa.o
- .text.itoa     0x00000000       0x64 out/app/src/programa.o
- .rodata.str1.4
-                0x00000000       0x48 out/app/src/programa.o
+ .debug_macro   0x00000000      0x892 out/app/src/programa.o
+ .debug_macro   0x00000000       0x22 out/app/src/programa.o
+ .debug_macro   0x00000000       0x87 out/app/src/programa.o
+ .debug_macro   0x00000000       0x44 out/app/src/programa.o
+ .debug_macro   0x00000000       0xfd out/app/src/programa.o
+ .debug_macro   0x00000000       0x5e out/app/src/programa.o
+ .debug_macro   0x00000000      0x1df out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x22 out/app/src/programa.o
+ .debug_macro   0x00000000       0x66 out/app/src/programa.o
+ .debug_macro   0x00000000       0x28 out/app/src/programa.o
+ .debug_macro   0x00000000       0x3b out/app/src/programa.o
+ .debug_macro   0x00000000       0x2d out/app/src/programa.o
+ .debug_macro   0x00000000       0x42 out/app/src/programa.o
+ .debug_macro   0x00000000      0xd39 out/app/src/programa.o
+ .debug_macro   0x00000000      0x2bc out/app/src/programa.o
+ .debug_macro   0x00000000      0x112 out/app/src/programa.o
+ .debug_macro   0x00000000       0x11 out/app/src/programa.o
+ .debug_macro   0x00000000       0x2a out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000      0x2e6 out/app/src/programa.o
+ .debug_macro   0x00000000       0x82 out/app/src/programa.o
+ .debug_macro   0x00000000      0x13d out/app/src/programa.o
+ .debug_macro   0x00000000      0x198 out/app/src/programa.o
+ .debug_macro   0x00000000       0x34 out/app/src/programa.o
+ .debug_macro   0x00000000       0x58 out/app/src/programa.o
+ .debug_macro   0x00000000      0x236 out/app/src/programa.o
+ .debug_macro   0x00000000      0x572 out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000      0x18a out/app/src/programa.o
+ .debug_macro   0x00000000       0x88 out/app/src/programa.o
+ .debug_macro   0x00000000      0x1b9 out/app/src/programa.o
+ .debug_macro   0x00000000      0x1da out/app/src/programa.o
+ .debug_macro   0x00000000       0x40 out/app/src/programa.o
+ .debug_macro   0x00000000       0x1c out/app/src/programa.o
+ .debug_macro   0x00000000       0x2e out/app/src/programa.o
+ .debug_macro   0x00000000       0x2e out/app/src/programa.o
+ .debug_macro   0x00000000       0x22 out/app/src/programa.o
+ .debug_macro   0x00000000      0x201 out/app/src/programa.o
+ .debug_macro   0x00000000       0xe0 out/app/src/programa.o
+ .debug_macro   0x00000000      0x34c out/app/src/programa.o
+ .debug_macro   0x00000000       0xdc out/app/src/programa.o
+ .debug_macro   0x00000000       0xc4 out/app/src/programa.o
+ .debug_macro   0x00000000       0x94 out/app/src/programa.o
+ .debug_macro   0x00000000       0xb8 out/app/src/programa.o
+ .debug_macro   0x00000000       0x4c out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000      0x328 out/app/src/programa.o
+ .debug_macro   0x00000000       0x3a out/app/src/programa.o
+ .debug_macro   0x00000000       0xd0 out/app/src/programa.o
+ .debug_macro   0x00000000       0x18 out/app/src/programa.o
+ .debug_macro   0x00000000       0x22 out/app/src/programa.o
+ .debug_macro   0x00000000       0x40 out/app/src/programa.o
+ .debug_macro   0x00000000       0x4c out/app/src/programa.o
+ .debug_macro   0x00000000       0x52 out/app/src/programa.o
+ .debug_macro   0x00000000       0x35 out/app/src/programa.o
+ .debug_macro   0x00000000       0x9c out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000       0x97 out/app/src/programa.o
+ .debug_macro   0x00000000      0x30d out/app/src/programa.o
+ .debug_macro   0x00000000       0xfd out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x52 out/app/src/programa.o
+ .debug_macro   0x00000000       0x1f out/app/src/programa.o
+ .debug_macro   0x00000000       0x43 out/app/src/programa.o
+ .debug_macro   0x00000000       0x20 out/app/src/programa.o
+ .debug_macro   0x00000000      0x187 out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x1c out/app/src/programa.o
+ .debug_macro   0x00000000       0x52 out/app/src/programa.o
+ .debug_macro   0x00000000       0x40 out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x40 out/app/src/programa.o
+ .debug_macro   0x00000000       0xd7 out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000      0x18b out/app/src/programa.o
+ .debug_macro   0x00000000       0x20 out/app/src/programa.o
+ .debug_macro   0x00000000       0x28 out/app/src/programa.o
+ .debug_macro   0x00000000       0x16 out/app/src/programa.o
+ .debug_macro   0x00000000       0x3a out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x10 out/app/src/programa.o
+ .debug_macro   0x00000000       0x70 out/app/src/programa.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .group         0x00000000        0x8 out/app/src/stateMachine.o
+ .text          0x00000000        0x0 out/app/src/stateMachine.o
+ .data          0x00000000        0x0 out/app/src/stateMachine.o
+ .bss           0x00000000        0x0 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x892 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x22 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x87 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x44 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xfd out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x5e out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x1df out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x22 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x66 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x28 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x3b out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x2d out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x42 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0xd39 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x2bc out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x112 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x11 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x2a out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x2e6 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x82 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x13d out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x198 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x34 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x58 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x236 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x572 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x18a out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x88 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x1b9 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x1da out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x40 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x1c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x2e out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x2e out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x22 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x201 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xe0 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x34c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xdc out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xc4 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x94 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xb8 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x4c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x328 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x3a out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xd0 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x18 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x22 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x40 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x4c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x52 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x35 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x9c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x97 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x30d out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xfd out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x52 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x1f out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x43 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x20 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x187 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x1c out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x52 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x40 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x40 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0xd7 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000      0x18b out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x20 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x28 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x16 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x3a out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x10 out/app/src/stateMachine.o
+ .debug_macro   0x00000000       0x70 out/app/src/stateMachine.o
  .group         0x00000000        0x8 out/libs/lpc_chip_43xx/src/adc_18xx_43xx.o
  .group         0x00000000        0x8 out/libs/lpc_chip_43xx/src/adc_18xx_43xx.o
  .group         0x00000000        0x8 out/libs/lpc_chip_43xx/src/adc_18xx_43xx.o
@@ -8983,7 +9508,11 @@ RamAHB_ETB16     0x2000c000         0x00004000         xrw
 
 Linker script and memory map
 
+LOAD out/app/src/checkState.o
+LOAD out/app/src/itoa.o
+LOAD out/app/src/obtenerDatos.o
 LOAD out/app/src/programa.o
+LOAD out/app/src/stateMachine.o
 LOAD out/libs/lpc_chip_43xx/src/adc_18xx_43xx.o
 LOAD out/libs/lpc_chip_43xx/src/aes_18xx_43xx.o
 LOAD out/libs/lpc_chip_43xx/src/atimer_18xx_43xx.o
@@ -9079,7 +9608,7 @@ END GROUP
  *(.rodata.$Flash2*)
  *(.rodata.$MFlashB512*)
 
-.text           0x1a000000     0x20a0
+.text           0x1a000000     0x2000
  FILL mask 0xff
                 0x1a000000                __vectors_start__ = ABSOLUTE (.)
  *(.isr_vector)
@@ -9088,19 +9617,19 @@ END GROUP
                 0x1a000114                . = ALIGN (0x4)
                 0x1a000114                __section_table_start = .
                 0x1a000114                __data_section_table = .
-                0x1a000114        0x4 LONG 0x1a0020a8 LOADADDR (.data)
+                0x1a000114        0x4 LONG 0x1a002008 LOADADDR (.data)
                 0x1a000118        0x4 LONG 0x10000000 ADDR (.data)
                 0x1a00011c        0x4 LONG 0x84 SIZEOF (.data)
-                0x1a000120        0x4 LONG 0x1a0020a8 LOADADDR (.data_RAM2)
+                0x1a000120        0x4 LONG 0x1a002008 LOADADDR (.data_RAM2)
                 0x1a000124        0x4 LONG 0x10080000 ADDR (.data_RAM2)
                 0x1a000128        0x4 LONG 0x0 SIZEOF (.data_RAM2)
-                0x1a00012c        0x4 LONG 0x1a0020a8 LOADADDR (.data_RAM3)
+                0x1a00012c        0x4 LONG 0x1a002008 LOADADDR (.data_RAM3)
                 0x1a000130        0x4 LONG 0x20000000 ADDR (.data_RAM3)
                 0x1a000134        0x4 LONG 0x0 SIZEOF (.data_RAM3)
-                0x1a000138        0x4 LONG 0x1a0020a8 LOADADDR (.data_RAM4)
+                0x1a000138        0x4 LONG 0x1a002008 LOADADDR (.data_RAM4)
                 0x1a00013c        0x4 LONG 0x20008000 ADDR (.data_RAM4)
                 0x1a000140        0x4 LONG 0x0 SIZEOF (.data_RAM4)
-                0x1a000144        0x4 LONG 0x1a0020a8 LOADADDR (.data_RAM5)
+                0x1a000144        0x4 LONG 0x1a002008 LOADADDR (.data_RAM5)
                 0x1a000148        0x4 LONG 0x2000c000 ADDR (.data_RAM5)
                 0x1a00014c        0x4 LONG 0x0 SIZEOF (.data_RAM5)
                 0x1a000150                __data_section_table_end = .
@@ -9185,281 +9714,281 @@ END GROUP
                 0x1a000300                PROVIDE (__CRP_WORD_END__, .)
                 0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
  *(.text*)
- .text.obtenerDatos
-                0x1a000300       0x30 out/app/src/programa.o
-                0x1a000300                obtenerDatos
- .text.main     0x1a000330       0x7c out/app/src/programa.o
-                0x1a000330                main
  .text.check_state
-                0x1a0003ac       0x40 out/app/src/programa.o
-                0x1a0003ac                check_state
- .text.STATE_MACHINE
-                0x1a0003ec      0x1e0 out/app/src/programa.o
-                0x1a0003ec                STATE_MACHINE
+                0x1a000300       0x40 out/app/src/checkState.o
+                0x1a000300                check_state
+ .text.obtenerDatos
+                0x1a000340       0x30 out/app/src/obtenerDatos.o
+                0x1a000340                obtenerDatos
  .text.GPIO0_IRQHandler
-                0x1a0005cc       0x6c out/app/src/programa.o
-                0x1a0005cc                GPIO0_IRQHandler
+                0x1a000370       0x20 out/app/src/programa.o
+                0x1a000370                GPIO0_IRQHandler
+ .text.main     0x1a000390       0x5c out/app/src/programa.o
+                0x1a000390                main
+ .text.stateMachine
+                0x1a0003ec      0x1ac out/app/src/stateMachine.o
+                0x1a0003ec                stateMachine
  .text.SystemCoreClockUpdate
-                0x1a000638       0x14 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
-                0x1a000638                SystemCoreClockUpdate
+                0x1a000598       0x14 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+                0x1a000598                SystemCoreClockUpdate
  .text.pll_calc_divs
-                0x1a00064c       0xa8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0005ac       0xa8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.pll_get_frac
-                0x1a0006f4       0xfc out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000654       0xfc out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.Chip_Clock_FindBaseClock
-                0x1a0007f0       0x48 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000750       0x48 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.Chip_Clock_EnableCrystal
-                0x1a000838       0x4c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000838                Chip_Clock_EnableCrystal
+                0x1a000798       0x4c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000798                Chip_Clock_EnableCrystal
  .text.Chip_Clock_GetDividerSource
-                0x1a000884       0x1c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000884                Chip_Clock_GetDividerSource
+                0x1a0007e4       0x1c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0007e4                Chip_Clock_GetDividerSource
  .text.Chip_Clock_GetDividerDivisor
-                0x1a0008a0       0x1c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a0008a0                Chip_Clock_GetDividerDivisor
+                0x1a000800       0x1c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000800                Chip_Clock_GetDividerDivisor
  .text.Chip_Clock_GetClockInputHz
-                0x1a0008bc       0xb8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a0008bc                Chip_Clock_GetClockInputHz
+                0x1a00081c       0xb8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a00081c                Chip_Clock_GetClockInputHz
  .text.Chip_Clock_CalcMainPLLValue
-                0x1a000974       0x80 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000974                Chip_Clock_CalcMainPLLValue
+                0x1a0008d4       0x80 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0008d4                Chip_Clock_CalcMainPLLValue
  .text.Chip_Clock_GetMainPLLHz
-                0x1a0009f4       0x68 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a0009f4                Chip_Clock_GetMainPLLHz
+                0x1a000954       0x68 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000954                Chip_Clock_GetMainPLLHz
  .text.Chip_Clock_GetDivRate
-                0x1a000a5c       0x24 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0009bc       0x24 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .text.Chip_Clock_SetBaseClock
-                0x1a000a80       0x44 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000a80                Chip_Clock_SetBaseClock
+                0x1a0009e0       0x44 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a0009e0                Chip_Clock_SetBaseClock
  .text.Chip_Clock_GetBaseClock
-                0x1a000ac4       0x24 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000ac4                Chip_Clock_GetBaseClock
+                0x1a000a24       0x24 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000a24                Chip_Clock_GetBaseClock
  .text.Chip_Clock_GetBaseClocktHz
-                0x1a000ae8        0xc out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000ae8                Chip_Clock_GetBaseClocktHz
+                0x1a000a48        0xc out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000a48                Chip_Clock_GetBaseClocktHz
  .text.Chip_Clock_EnableOpts
-                0x1a000af4       0x3c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000af4                Chip_Clock_EnableOpts
+                0x1a000a54       0x3c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000a54                Chip_Clock_EnableOpts
  .text.Chip_Clock_Enable
-                0x1a000b30       0x34 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000b30                Chip_Clock_Enable
+                0x1a000a90       0x34 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000a90                Chip_Clock_Enable
  .text.Chip_Clock_GetRate
-                0x1a000b64       0x4c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-                0x1a000b64                Chip_Clock_GetRate
- .text.fpuInit  0x1a000bb0       0x58 out/libs/lpc_chip_43xx/src/fpu_init.o
-                0x1a000bb0                fpuInit
+                0x1a000ac4       0x4c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a000ac4                Chip_Clock_GetRate
+ .text.fpuInit  0x1a000b10       0x58 out/libs/lpc_chip_43xx/src/fpu_init.o
+                0x1a000b10                fpuInit
  .text.Chip_GPIO_Init
-                0x1a000c08        0x4 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
-                0x1a000c08                Chip_GPIO_Init
+                0x1a000b68        0x4 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x1a000b68                Chip_GPIO_Init
  .text.Chip_GPIO_SetDir
-                0x1a000c0c       0x24 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
-                0x1a000c0c                Chip_GPIO_SetDir
+                0x1a000b6c       0x24 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x1a000b6c                Chip_GPIO_SetDir
  .text.Chip_I2C_EventHandler
-                0x1a000c30       0x20 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000c30                Chip_I2C_EventHandler
+                0x1a000b90       0x20 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000b90                Chip_I2C_EventHandler
  .text.handleMasterXferState
-                0x1a000c50      0x124 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000c50                handleMasterXferState
+                0x1a000bb0      0x124 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000bb0                handleMasterXferState
  .text.Chip_I2C_Init
-                0x1a000d74       0x24 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000d74                Chip_I2C_Init
+                0x1a000cd4       0x24 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000cd4                Chip_I2C_Init
  .text.Chip_I2C_SetClockRate
-                0x1a000d98       0x30 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000d98                Chip_I2C_SetClockRate
+                0x1a000cf8       0x30 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000cf8                Chip_I2C_SetClockRate
  .text.Chip_I2C_SetMasterEventHandler
-                0x1a000dc8       0x34 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000dc8                Chip_I2C_SetMasterEventHandler
+                0x1a000d28       0x34 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000d28                Chip_I2C_SetMasterEventHandler
  .text.Chip_I2C_MasterStateHandler
-                0x1a000dfc       0x30 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000dfc                Chip_I2C_MasterStateHandler
+                0x1a000d5c       0x30 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000d5c                Chip_I2C_MasterStateHandler
  .text.Chip_I2C_IsStateChanged
-                0x1a000e2c       0x18 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000e2c                Chip_I2C_IsStateChanged
+                0x1a000d8c       0x18 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000d8c                Chip_I2C_IsStateChanged
  .text.Chip_I2C_EventHandlerPolling
-                0x1a000e44       0x34 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
-                0x1a000e44                Chip_I2C_EventHandlerPolling
+                0x1a000da4       0x34 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x1a000da4                Chip_I2C_EventHandlerPolling
  .text.Chip_I2CM_XferHandler
-                0x1a000e78      0x120 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
-                0x1a000e78                Chip_I2CM_XferHandler
+                0x1a000dd8      0x120 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+                0x1a000dd8                Chip_I2CM_XferHandler
  .text.Chip_I2CM_Xfer
-                0x1a000f98       0x10 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
-                0x1a000f98                Chip_I2CM_Xfer
+                0x1a000ef8       0x10 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+                0x1a000ef8                Chip_I2CM_Xfer
  .text.Chip_I2CM_XferBlocking
-                0x1a000fa8       0x24 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
-                0x1a000fa8                Chip_I2CM_XferBlocking
+                0x1a000f08       0x24 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+                0x1a000f08                Chip_I2CM_XferBlocking
  .text.Chip_SetupCoreClock
-                0x1a000fcc      0x158 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
-                0x1a000fcc                Chip_SetupCoreClock
+                0x1a000f2c      0x158 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x1a000f2c                Chip_SetupCoreClock
  .text.Chip_UART_GetIndex
-                0x1a001124       0x2c out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001084       0x2c out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
  .text.Chip_UART_Init
-                0x1a001150       0x50 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a001150                Chip_UART_Init
+                0x1a0010b0       0x50 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a0010b0                Chip_UART_Init
  .text.Chip_UART_SetBaud
-                0x1a0011a0       0x40 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a0011a0                Chip_UART_SetBaud
+                0x1a001100       0x40 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001100                Chip_UART_SetBaud
  .text.Chip_UART_SetBaudFDR
-                0x1a0011e0       0xe4 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
-                0x1a0011e0                Chip_UART_SetBaudFDR
+                0x1a001140       0xe4 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001140                Chip_UART_SetBaudFDR
  .text.Board_LED_Init
-                0x1a0012c4       0x40 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001224       0x40 out/libs/lpc_board_ciaa_edu_4337/src/board.o
  .text.Board_UART_Init
-                0x1a001304       0x14 out/libs/lpc_board_ciaa_edu_4337/src/board.o
-                0x1a001304                Board_UART_Init
+                0x1a001264       0x14 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001264                Board_UART_Init
  .text.Board_Debug_Init
-                0x1a001318       0x28 out/libs/lpc_board_ciaa_edu_4337/src/board.o
-                0x1a001318                Board_Debug_Init
+                0x1a001278       0x28 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001278                Board_Debug_Init
  .text.Board_Init
-                0x1a001340       0x28 out/libs/lpc_board_ciaa_edu_4337/src/board.o
-                0x1a001340                Board_Init
+                0x1a0012a0       0x28 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a0012a0                Board_Init
  .text.Board_SetupMuxing
-                0x1a001368       0x34 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
-                0x1a001368                Board_SetupMuxing
+                0x1a0012c8       0x34 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x1a0012c8                Board_SetupMuxing
  .text.Board_SetupClocking
-                0x1a00139c       0x6c out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
-                0x1a00139c                Board_SetupClocking
+                0x1a0012fc       0x6c out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x1a0012fc                Board_SetupClocking
  .text.Board_SystemInit
-                0x1a001408        0xc out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
-                0x1a001408                Board_SystemInit
+                0x1a001368        0xc out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x1a001368                Board_SystemInit
  .text.ResetISR
-                0x1a001414       0x7c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
-                0x1a001414                ResetISR
+                0x1a001374       0x7c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+                0x1a001374                ResetISR
  .text.SystemInit
-                0x1a001490        0xc out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
-                0x1a001490                SystemInit
+                0x1a0013f0        0xc out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+                0x1a0013f0                SystemInit
  .text.boardConfig
-                0x1a00149c       0xf0 out/libs/sapi/src/sapi_board.o
-                0x1a00149c                boardConfig
+                0x1a0013fc       0xf0 out/libs/sapi/src/sapi_board.o
+                0x1a0013fc                boardConfig
  .text.sAPI_NullFuncPtr
-                0x1a00158c        0x4 out/libs/sapi/src/sapi_datatypes.o
-                0x1a00158c                sAPI_NullFuncPtr
+                0x1a0014ec        0x4 out/libs/sapi/src/sapi_datatypes.o
+                0x1a0014ec                sAPI_NullFuncPtr
  .text.gpioObtainPinConfig
-                0x1a001590       0x2c out/libs/sapi/src/sapi_gpio.o
+                0x1a0014f0       0x2c out/libs/sapi/src/sapi_gpio.o
  .text.gpioConfig
-                0x1a0015bc      0x174 out/libs/sapi/src/sapi_gpio.o
-                0x1a0015bc                gpioConfig
+                0x1a00151c      0x174 out/libs/sapi/src/sapi_gpio.o
+                0x1a00151c                gpioConfig
  .text.gpioWrite
-                0x1a001730       0x58 out/libs/sapi/src/sapi_gpio.o
-                0x1a001730                gpioWrite
+                0x1a001690       0x58 out/libs/sapi/src/sapi_gpio.o
+                0x1a001690                gpioWrite
  .text.gpioRead
-                0x1a001788       0x58 out/libs/sapi/src/sapi_gpio.o
-                0x1a001788                gpioRead
+                0x1a0016e8       0x58 out/libs/sapi/src/sapi_gpio.o
+                0x1a0016e8                gpioRead
  .text.gpioToggle
-                0x1a0017e0       0x18 out/libs/sapi/src/sapi_gpio.o
-                0x1a0017e0                gpioToggle
+                0x1a001740       0x18 out/libs/sapi/src/sapi_gpio.o
+                0x1a001740                gpioToggle
  .text.i2cHardwareConfig
-                0x1a0017f8       0x30 out/libs/sapi/src/sapi_i2c.o
+                0x1a001758       0x30 out/libs/sapi/src/sapi_i2c.o
  .text.i2cHardwareRead
-                0x1a001828       0x3c out/libs/sapi/src/sapi_i2c.o
+                0x1a001788       0x3c out/libs/sapi/src/sapi_i2c.o
  .text.i2cConfig
-                0x1a001864       0x10 out/libs/sapi/src/sapi_i2c.o
-                0x1a001864                i2cConfig
- .text.i2cRead  0x1a001874       0x2c out/libs/sapi/src/sapi_i2c.o
-                0x1a001874                i2cRead
+                0x1a0017c4       0x10 out/libs/sapi/src/sapi_i2c.o
+                0x1a0017c4                i2cConfig
+ .text.i2cRead  0x1a0017d4       0x2c out/libs/sapi/src/sapi_i2c.o
+                0x1a0017d4                i2cRead
  .text.tickConfig
-                0x1a0018a0       0x78 out/libs/sapi/src/sapi_tick.o
-                0x1a0018a0                tickConfig
+                0x1a001800       0x78 out/libs/sapi/src/sapi_tick.o
+                0x1a001800                tickConfig
  .text.SysTick_Handler
-                0x1a001918       0x24 out/libs/sapi/src/sapi_tick.o
-                0x1a001918                SysTick_Handler
+                0x1a001878       0x24 out/libs/sapi/src/sapi_tick.o
+                0x1a001878                SysTick_Handler
  .text.errorOcurred
-                0x1a00193c        0x4 out/libs/sapi/src/sapi_timer.o
+                0x1a00189c        0x4 out/libs/sapi/src/sapi_timer.o
  .text.doNothing
-                0x1a001940        0x4 out/libs/sapi/src/sapi_timer.o
+                0x1a0018a0        0x4 out/libs/sapi/src/sapi_timer.o
  .text.TIMER0_IRQHandler
-                0x1a001944       0x3c out/libs/sapi/src/sapi_timer.o
-                0x1a001944                TIMER0_IRQHandler
+                0x1a0018a4       0x3c out/libs/sapi/src/sapi_timer.o
+                0x1a0018a4                TIMER0_IRQHandler
  .text.TIMER1_IRQHandler
-                0x1a001980       0x3c out/libs/sapi/src/sapi_timer.o
-                0x1a001980                TIMER1_IRQHandler
+                0x1a0018e0       0x3c out/libs/sapi/src/sapi_timer.o
+                0x1a0018e0                TIMER1_IRQHandler
  .text.TIMER2_IRQHandler
-                0x1a0019bc       0x40 out/libs/sapi/src/sapi_timer.o
-                0x1a0019bc                TIMER2_IRQHandler
+                0x1a00191c       0x40 out/libs/sapi/src/sapi_timer.o
+                0x1a00191c                TIMER2_IRQHandler
  .text.TIMER3_IRQHandler
-                0x1a0019fc       0x40 out/libs/sapi/src/sapi_timer.o
-                0x1a0019fc                TIMER3_IRQHandler
+                0x1a00195c       0x40 out/libs/sapi/src/sapi_timer.o
+                0x1a00195c                TIMER3_IRQHandler
  .text.uartConfig
-                0x1a001a3c       0x64 out/libs/sapi/src/sapi_uart.o
-                0x1a001a3c                uartConfig
+                0x1a00199c       0x64 out/libs/sapi/src/sapi_uart.o
+                0x1a00199c                uartConfig
  .text.uartWriteByte
-                0x1a001aa0       0x30 out/libs/sapi/src/sapi_uart.o
-                0x1a001aa0                uartWriteByte
+                0x1a001a00       0x30 out/libs/sapi/src/sapi_uart.o
+                0x1a001a00                uartWriteByte
  .text.uartWriteString
-                0x1a001ad0       0x18 out/libs/sapi/src/sapi_uart.o
-                0x1a001ad0                uartWriteString
+                0x1a001a30       0x18 out/libs/sapi/src/sapi_uart.o
+                0x1a001a30                uartWriteString
  .text.UART2_IRQHandler
-                0x1a001ae8        0x4 out/libs/sapi/src/sapi_uart.o
-                0x1a001ae8                UART2_IRQHandler
+                0x1a001a48        0x4 out/libs/sapi/src/sapi_uart.o
+                0x1a001a48                UART2_IRQHandler
  .text.UART3_IRQHandler
-                0x1a001aec        0x4 out/libs/sapi/src/sapi_uart.o
-                0x1a001aec                UART3_IRQHandler
- .text          0x1a001af0       0x30 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
-                0x1a001af0                __aeabi_uldivmod
- .text          0x1a001b20      0x2e4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
-                0x1a001b20                __udivmoddi4
- .text          0x1a001e04        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
-                0x1a001e04                __aeabi_idiv0
-                0x1a001e04                __aeabi_ldiv0
- .text.memset   0x1a001e08       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
-                0x1a001e08                memset
+                0x1a001a4c        0x4 out/libs/sapi/src/sapi_uart.o
+                0x1a001a4c                UART3_IRQHandler
+ .text          0x1a001a50       0x30 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                0x1a001a50                __aeabi_uldivmod
+ .text          0x1a001a80      0x2e4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                0x1a001a80                __udivmoddi4
+ .text          0x1a001d64        0x4 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                0x1a001d64                __aeabi_idiv0
+                0x1a001d64                __aeabi_ldiv0
+ .text.memset   0x1a001d68       0x10 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                0x1a001d68                memset
  *(.rodata .rodata.* .constdata .constdata.*)
- .rodata        0x1a001e18        0x4 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .rodata        0x1a001d78        0x4 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .rodata.str1.4
-                0x1a001e1c        0x8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a001d7c        0x8 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .rodata.periph_to_base
-                0x1a001e24       0x6c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x1a001d84       0x6c out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .rodata.InitClkStates
-                0x1a001e90       0x48 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x1a001df0       0x48 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
  .rodata.UART_BClock
-                0x1a001ed8        0x8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001e38        0x8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
  .rodata.UART_PClock
-                0x1a001ee0        0x8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x1a001e40        0x8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
  .rodata.OscRateIn
-                0x1a001ee8        0x4 out/libs/lpc_board_ciaa_edu_4337/src/board.o
-                0x1a001ee8                OscRateIn
+                0x1a001e48        0x4 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001e48                OscRateIn
  .rodata.ExtRateIn
-                0x1a001eec        0x4 out/libs/lpc_board_ciaa_edu_4337/src/board.o
-                0x1a001eec                ExtRateIn
+                0x1a001e4c        0x4 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001e4c                ExtRateIn
  .rodata.gpioLEDBits
-                0x1a001ef0        0xc out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x1a001e50        0xc out/libs/lpc_board_ciaa_edu_4337/src/board.o
  .rodata.InitClkStates
-                0x1a001efc        0xc out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x1a001e5c        0xc out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
  .rodata.pinmuxing
-                0x1a001f08       0x60 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x1a001e68       0x60 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
  .rodata.gpioPinsConfig
-                0x1a001f68      0x138 out/libs/sapi/src/sapi_gpio.o
-                0x1a001f68                gpioPinsConfig
-                0x1a0020a0                . = ALIGN (0x4)
+                0x1a001ec8      0x138 out/libs/sapi/src/sapi_gpio.o
+                0x1a001ec8                gpioPinsConfig
+                0x1a002000                . = ALIGN (0x4)
 
-.glue_7         0x1a0020a0        0x0
- .glue_7        0x1a0020a0        0x0 linker stubs
+.glue_7         0x1a002000        0x0
+ .glue_7        0x1a002000        0x0 linker stubs
 
-.glue_7t        0x1a0020a0        0x0
- .glue_7t       0x1a0020a0        0x0 linker stubs
+.glue_7t        0x1a002000        0x0
+ .glue_7t       0x1a002000        0x0 linker stubs
 
-.vfp11_veneer   0x1a0020a0        0x0
- .vfp11_veneer  0x1a0020a0        0x0 linker stubs
+.vfp11_veneer   0x1a002000        0x0
+ .vfp11_veneer  0x1a002000        0x0 linker stubs
 
-.v4_bx          0x1a0020a0        0x0
- .v4_bx         0x1a0020a0        0x0 linker stubs
+.v4_bx          0x1a002000        0x0
+ .v4_bx         0x1a002000        0x0 linker stubs
 
-.iplt           0x1a0020a0        0x0
- .iplt          0x1a0020a0        0x0 out/app/src/programa.o
+.iplt           0x1a002000        0x0
+ .iplt          0x1a002000        0x0 out/app/src/checkState.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x1a0020a0                __exidx_start = .
+                0x1a002000                __exidx_start = .
 
-.ARM.exidx      0x1a0020a0        0x8
+.ARM.exidx      0x1a002000        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x1a0020a0        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
-                0x1a0020a8                __exidx_end = .
-                0x1a0020a8                _etext = .
+ .ARM.exidx     0x1a002000        0x8 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                0x1a002008                __exidx_end = .
+                0x1a002008                _etext = .
 
-.rel.dyn        0x1a0020a8        0x0
- .rel.iplt      0x1a0020a8        0x0 out/app/src/programa.o
+.rel.dyn        0x1a002008        0x0
+ .rel.iplt      0x1a002008        0x0 out/app/src/checkState.o
 
-.data_RAM2      0x10080000        0x0 load address 0x1a0020a8
+.data_RAM2      0x10080000        0x0 load address 0x1a002008
  FILL mask 0xff
  *(.ramfunc.$RAM2)
  *(.ramfunc.$RamLoc40)
@@ -9467,7 +9996,7 @@ END GROUP
  *(.data.$RamLoc40*)
                 0x10080000                . = ALIGN (0x4)
 
-.data_RAM3      0x20000000        0x0 load address 0x1a0020a8
+.data_RAM3      0x20000000        0x0 load address 0x1a002008
  FILL mask 0xff
  *(.ramfunc.$RAM3)
  *(.ramfunc.$RamAHB32)
@@ -9475,7 +10004,7 @@ END GROUP
  *(.data.$RamAHB32*)
                 0x20000000                . = ALIGN (0x4)
 
-.data_RAM4      0x20008000        0x0 load address 0x1a0020a8
+.data_RAM4      0x20008000        0x0 load address 0x1a002008
  FILL mask 0xff
  *(.ramfunc.$RAM4)
  *(.ramfunc.$RamAHB16)
@@ -9483,7 +10012,7 @@ END GROUP
  *(.data.$RamAHB16*)
                 0x20008000                . = ALIGN (0x4)
 
-.data_RAM5      0x2000c000        0x0 load address 0x1a0020a8
+.data_RAM5      0x2000c000        0x0 load address 0x1a002008
  FILL mask 0xff
  *(.ramfunc.$RAM5)
  *(.ramfunc.$RamAHB_ETB16)
@@ -9497,16 +10026,16 @@ END GROUP
                 0x10000000                . = ALIGN (0x4)
                 0x10000000                _end_uninit_RESERVED = .
 
-.data           0x10000000       0x84 load address 0x1a0020a8
+.data           0x10000000       0x84 load address 0x1a002008
  FILL mask 0xff
                 0x10000000                _data = .
  *(vtable)
  *(.ramfunc*)
  *(.data*)
- .data.STATE    0x10000000        0x4 out/app/src/programa.o
+ .data.STATE    0x10000000        0x4 out/app/src/stateMachine.o
                 0x10000000                STATE
  .data.LEDCONTROL
-                0x10000004        0x1 out/app/src/programa.o
+                0x10000004        0x1 out/app/src/stateMachine.o
                 0x10000004                LEDCONTROL
  *fill*         0x10000005        0x3 ff
  .data.i2c      0x10000008       0x38 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
@@ -9518,8 +10047,8 @@ END GROUP
                 0x10000084                . = ALIGN (0x4)
                 0x10000084                _edata = .
 
-.igot.plt       0x10000084        0x0 load address 0x1a00212c
- .igot.plt      0x10000084        0x0 out/app/src/programa.o
+.igot.plt       0x10000084        0x0 load address 0x1a00208c
+ .igot.plt      0x10000084        0x0 out/app/src/checkState.o
 
 .bss_RAM2       0x10080000        0x0
  *(.bss.$RAM2*)
@@ -9584,324 +10113,355 @@ END GROUP
                 0x100000a8                _end_noinit = .
                 0x100000a8                PROVIDE (_pvHeapStart, .)
                 0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
-                0x53ff6466                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x53ff6506                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
 OUTPUT(out/program.elf elf32-littlearm)
 
-.debug_info     0x00000000     0xf61a
- .debug_info    0x00000000     0x14c2 out/app/src/programa.o
- .debug_info    0x000014c2      0xcc4 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_info    0x00002186     0x18f5 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_info    0x00003a7b      0x14c out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_info    0x00003bc7      0x4b8 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_info    0x0000407f     0x1345 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_info    0x000053c4      0xa36 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_info    0x00005dfa      0xaf6 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_info    0x000068f0     0x1687 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_info    0x00007f77     0x18dc out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_info    0x00009853      0xc83 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_info    0x0000a4d6      0x2dd out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_info    0x0000a7b3       0x3f out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_info    0x0000a7f2       0xf8 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_info    0x0000a8ea      0x5ee out/libs/sapi/src/sapi_board.o
- .debug_info    0x0000aed8       0xff out/libs/sapi/src/sapi_datatypes.o
- .debug_info    0x0000afd7     0x11b3 out/libs/sapi/src/sapi_gpio.o
- .debug_info    0x0000c18a      0x85a out/libs/sapi/src/sapi_i2c.o
- .debug_info    0x0000c9e4      0xc04 out/libs/sapi/src/sapi_tick.o
- .debug_info    0x0000d5e8     0x1427 out/libs/sapi/src/sapi_timer.o
- .debug_info    0x0000ea0f      0xc0b out/libs/sapi/src/sapi_uart.o
+.debug_info     0x00000000     0xf9ab
+ .debug_info    0x00000000      0x2c0 out/app/src/checkState.o
+ .debug_info    0x000002c0      0x1e0 out/app/src/obtenerDatos.o
+ .debug_info    0x000004a0      0xae6 out/app/src/programa.o
+ .debug_info    0x00000f86      0x8cd out/app/src/stateMachine.o
+ .debug_info    0x00001853      0xcc4 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_info    0x00002517     0x18f5 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_info    0x00003e0c      0x14c out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_info    0x00003f58      0x4b8 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_info    0x00004410     0x1345 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_info    0x00005755      0xa36 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_info    0x0000618b      0xaf6 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_info    0x00006c81     0x1687 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_info    0x00008308     0x18dc out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_info    0x00009be4      0xc83 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_info    0x0000a867      0x2dd out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_info    0x0000ab44       0x3f out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_info    0x0000ab83       0xf8 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_info    0x0000ac7b      0x5ee out/libs/sapi/src/sapi_board.o
+ .debug_info    0x0000b269       0xff out/libs/sapi/src/sapi_datatypes.o
+ .debug_info    0x0000b368     0x11b3 out/libs/sapi/src/sapi_gpio.o
+ .debug_info    0x0000c51b      0x85a out/libs/sapi/src/sapi_i2c.o
+ .debug_info    0x0000cd75      0xc04 out/libs/sapi/src/sapi_tick.o
+ .debug_info    0x0000d979     0x1427 out/libs/sapi/src/sapi_timer.o
+ .debug_info    0x0000eda0      0xc0b out/libs/sapi/src/sapi_uart.o
 
-.debug_abbrev   0x00000000     0x2bd5
- .debug_abbrev  0x00000000      0x32e out/app/src/programa.o
- .debug_abbrev  0x0000032e      0x1f6 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_abbrev  0x00000524      0x376 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_abbrev  0x0000089a       0xa2 out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_abbrev  0x0000093c      0x15a out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_abbrev  0x00000a96      0x337 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_abbrev  0x00000dcd      0x251 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_abbrev  0x0000101e      0x20a out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_abbrev  0x00001228      0x3ca out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_abbrev  0x000015f2      0x335 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_abbrev  0x00001927      0x225 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_abbrev  0x00001b4c      0x12b out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_abbrev  0x00001c77       0x36 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_abbrev  0x00001cad       0xa0 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_abbrev  0x00001d4d      0x115 out/libs/sapi/src/sapi_board.o
- .debug_abbrev  0x00001e62       0x84 out/libs/sapi/src/sapi_datatypes.o
- .debug_abbrev  0x00001ee6      0x2b0 out/libs/sapi/src/sapi_gpio.o
- .debug_abbrev  0x00002196      0x224 out/libs/sapi/src/sapi_i2c.o
- .debug_abbrev  0x000023ba      0x22a out/libs/sapi/src/sapi_tick.o
- .debug_abbrev  0x000025e4      0x331 out/libs/sapi/src/sapi_timer.o
- .debug_abbrev  0x00002915      0x2c0 out/libs/sapi/src/sapi_uart.o
+.debug_abbrev   0x00000000     0x2dc3
+ .debug_abbrev  0x00000000       0xd3 out/app/src/checkState.o
+ .debug_abbrev  0x000000d3      0x105 out/app/src/obtenerDatos.o
+ .debug_abbrev  0x000001d8      0x24e out/app/src/programa.o
+ .debug_abbrev  0x00000426       0xf6 out/app/src/stateMachine.o
+ .debug_abbrev  0x0000051c      0x1f6 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_abbrev  0x00000712      0x376 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_abbrev  0x00000a88       0xa2 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_abbrev  0x00000b2a      0x15a out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_abbrev  0x00000c84      0x337 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_abbrev  0x00000fbb      0x251 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_abbrev  0x0000120c      0x20a out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_abbrev  0x00001416      0x3ca out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_abbrev  0x000017e0      0x335 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_abbrev  0x00001b15      0x225 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_abbrev  0x00001d3a      0x12b out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_abbrev  0x00001e65       0x36 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_abbrev  0x00001e9b       0xa0 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_abbrev  0x00001f3b      0x115 out/libs/sapi/src/sapi_board.o
+ .debug_abbrev  0x00002050       0x84 out/libs/sapi/src/sapi_datatypes.o
+ .debug_abbrev  0x000020d4      0x2b0 out/libs/sapi/src/sapi_gpio.o
+ .debug_abbrev  0x00002384      0x224 out/libs/sapi/src/sapi_i2c.o
+ .debug_abbrev  0x000025a8      0x22a out/libs/sapi/src/sapi_tick.o
+ .debug_abbrev  0x000027d2      0x331 out/libs/sapi/src/sapi_timer.o
+ .debug_abbrev  0x00002b03      0x2c0 out/libs/sapi/src/sapi_uart.o
 
-.debug_loc      0x00000000     0x574e
- .debug_loc     0x00000000      0x29d out/app/src/programa.o
- .debug_loc     0x0000029d     0x12ce out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_loc     0x0000156b       0x1f out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_loc     0x0000158a      0x35b out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_loc     0x000018e5      0xc85 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_loc     0x0000256a      0x475 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_loc     0x000029df      0x110 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_loc     0x00002aef      0xc82 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_loc     0x00003771      0x3f5 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_loc     0x00003b66       0x97 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_loc     0x00003bfd      0x1f0 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_loc     0x00003ded       0x21 out/libs/sapi/src/sapi_datatypes.o
- .debug_loc     0x00003e0e      0x6d3 out/libs/sapi/src/sapi_gpio.o
- .debug_loc     0x000044e1      0x54a out/libs/sapi/src/sapi_i2c.o
- .debug_loc     0x00004a2b      0x129 out/libs/sapi/src/sapi_tick.o
- .debug_loc     0x00004b54      0x76a out/libs/sapi/src/sapi_timer.o
- .debug_loc     0x000052be      0x490 out/libs/sapi/src/sapi_uart.o
+.debug_loc      0x00000000     0x5647
+ .debug_loc     0x00000000       0x68 out/app/src/checkState.o
+ .debug_loc     0x00000068      0x12e out/app/src/programa.o
+ .debug_loc     0x00000196     0x12ce out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_loc     0x00001464       0x1f out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_loc     0x00001483      0x35b out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_loc     0x000017de      0xc85 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_loc     0x00002463      0x475 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_loc     0x000028d8      0x110 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_loc     0x000029e8      0xc82 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_loc     0x0000366a      0x3f5 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_loc     0x00003a5f       0x97 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_loc     0x00003af6      0x1f0 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_loc     0x00003ce6       0x21 out/libs/sapi/src/sapi_datatypes.o
+ .debug_loc     0x00003d07      0x6d3 out/libs/sapi/src/sapi_gpio.o
+ .debug_loc     0x000043da      0x54a out/libs/sapi/src/sapi_i2c.o
+ .debug_loc     0x00004924      0x129 out/libs/sapi/src/sapi_tick.o
+ .debug_loc     0x00004a4d      0x76a out/libs/sapi/src/sapi_timer.o
+ .debug_loc     0x000051b7      0x490 out/libs/sapi/src/sapi_uart.o
 
-.debug_aranges  0x00000000      0x778
+.debug_aranges  0x00000000      0x7b8
  .debug_aranges
-                0x00000000       0x48 out/app/src/programa.o
+                0x00000000       0x20 out/app/src/checkState.o
  .debug_aranges
-                0x00000048       0x38 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+                0x00000020       0x20 out/app/src/obtenerDatos.o
  .debug_aranges
-                0x00000080      0x128 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x00000040       0x28 out/app/src/programa.o
  .debug_aranges
-                0x000001a8       0x20 out/libs/lpc_chip_43xx/src/fpu_init.o
+                0x00000068       0x20 out/app/src/stateMachine.o
  .debug_aranges
-                0x000001c8       0x48 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x00000088       0x38 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
  .debug_aranges
-                0x00000210       0xd8 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x000000c0      0x128 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .debug_aranges
-                0x000002e8       0x60 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+                0x000001e8       0x20 out/libs/lpc_chip_43xx/src/fpu_init.o
  .debug_aranges
-                0x00000348       0x38 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x00000208       0x48 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
  .debug_aranges
-                0x00000380       0xa8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x00000250       0xd8 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
  .debug_aranges
-                0x00000428       0x90 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x00000328       0x60 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
  .debug_aranges
-                0x000004b8       0x30 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x00000388       0x38 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
  .debug_aranges
-                0x000004e8       0x80 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+                0x000003c0       0xa8 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
  .debug_aranges
-                0x00000568       0x18 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+                0x00000468       0x90 out/libs/lpc_board_ciaa_edu_4337/src/board.o
  .debug_aranges
-                0x00000580       0x20 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+                0x000004f8       0x30 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
  .debug_aranges
-                0x000005a0       0x20 out/libs/sapi/src/sapi_board.o
+                0x00000528       0x80 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
  .debug_aranges
-                0x000005c0       0x20 out/libs/sapi/src/sapi_datatypes.o
+                0x000005a8       0x18 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
  .debug_aranges
-                0x000005e0       0x40 out/libs/sapi/src/sapi_gpio.o
+                0x000005c0       0x20 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
  .debug_aranges
-                0x00000620       0x48 out/libs/sapi/src/sapi_i2c.o
+                0x000005e0       0x20 out/libs/sapi/src/sapi_board.o
  .debug_aranges
-                0x00000668       0x38 out/libs/sapi/src/sapi_tick.o
+                0x00000600       0x20 out/libs/sapi/src/sapi_datatypes.o
  .debug_aranges
-                0x000006a0       0x78 out/libs/sapi/src/sapi_timer.o
+                0x00000620       0x40 out/libs/sapi/src/sapi_gpio.o
  .debug_aranges
-                0x00000718       0x60 out/libs/sapi/src/sapi_uart.o
+                0x00000660       0x48 out/libs/sapi/src/sapi_i2c.o
+ .debug_aranges
+                0x000006a8       0x38 out/libs/sapi/src/sapi_tick.o
+ .debug_aranges
+                0x000006e0       0x78 out/libs/sapi/src/sapi_timer.o
+ .debug_aranges
+                0x00000758       0x60 out/libs/sapi/src/sapi_uart.o
 
-.debug_ranges   0x00000000      0x638
- .debug_ranges  0x00000000       0x38 out/app/src/programa.o
- .debug_ranges  0x00000038       0x28 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_ranges  0x00000060      0x118 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_ranges  0x00000178       0x10 out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_ranges  0x00000188       0x38 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_ranges  0x000001c0       0xc8 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_ranges  0x00000288       0x50 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_ranges  0x000002d8       0x28 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_ranges  0x00000300       0xb0 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_ranges  0x000003b0       0x80 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_ranges  0x00000430       0x20 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_ranges  0x00000450       0x70 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_ranges  0x000004c0       0x10 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_ranges  0x000004d0       0x10 out/libs/sapi/src/sapi_board.o
- .debug_ranges  0x000004e0       0x10 out/libs/sapi/src/sapi_datatypes.o
- .debug_ranges  0x000004f0       0x30 out/libs/sapi/src/sapi_gpio.o
- .debug_ranges  0x00000520       0x38 out/libs/sapi/src/sapi_i2c.o
- .debug_ranges  0x00000558       0x28 out/libs/sapi/src/sapi_tick.o
- .debug_ranges  0x00000580       0x68 out/libs/sapi/src/sapi_timer.o
- .debug_ranges  0x000005e8       0x50 out/libs/sapi/src/sapi_uart.o
+.debug_ranges   0x00000000      0x648
+ .debug_ranges  0x00000000       0x10 out/app/src/checkState.o
+ .debug_ranges  0x00000010       0x10 out/app/src/obtenerDatos.o
+ .debug_ranges  0x00000020       0x18 out/app/src/programa.o
+ .debug_ranges  0x00000038       0x10 out/app/src/stateMachine.o
+ .debug_ranges  0x00000048       0x28 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_ranges  0x00000070      0x118 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_ranges  0x00000188       0x10 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_ranges  0x00000198       0x38 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_ranges  0x000001d0       0xc8 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_ranges  0x00000298       0x50 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_ranges  0x000002e8       0x28 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_ranges  0x00000310       0xb0 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_ranges  0x000003c0       0x80 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_ranges  0x00000440       0x20 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_ranges  0x00000460       0x70 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_ranges  0x000004d0       0x10 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_ranges  0x000004e0       0x10 out/libs/sapi/src/sapi_board.o
+ .debug_ranges  0x000004f0       0x10 out/libs/sapi/src/sapi_datatypes.o
+ .debug_ranges  0x00000500       0x30 out/libs/sapi/src/sapi_gpio.o
+ .debug_ranges  0x00000530       0x38 out/libs/sapi/src/sapi_i2c.o
+ .debug_ranges  0x00000568       0x28 out/libs/sapi/src/sapi_tick.o
+ .debug_ranges  0x00000590       0x68 out/libs/sapi/src/sapi_timer.o
+ .debug_ranges  0x000005f8       0x50 out/libs/sapi/src/sapi_uart.o
 
-.debug_macro    0x00000000     0x9779
- .debug_macro   0x00000000      0x56b out/app/src/programa.o
- .debug_macro   0x0000056b      0x892 out/app/src/programa.o
- .debug_macro   0x00000dfd       0x22 out/app/src/programa.o
- .debug_macro   0x00000e1f       0x87 out/app/src/programa.o
- .debug_macro   0x00000ea6       0x44 out/app/src/programa.o
- .debug_macro   0x00000eea       0xfd out/app/src/programa.o
- .debug_macro   0x00000fe7       0x5e out/app/src/programa.o
- .debug_macro   0x00001045      0x1df out/app/src/programa.o
- .debug_macro   0x00001224       0x10 out/app/src/programa.o
- .debug_macro   0x00001234       0x22 out/app/src/programa.o
- .debug_macro   0x00001256       0x66 out/app/src/programa.o
- .debug_macro   0x000012bc       0x28 out/app/src/programa.o
- .debug_macro   0x000012e4       0x3b out/app/src/programa.o
- .debug_macro   0x0000131f       0x2d out/app/src/programa.o
- .debug_macro   0x0000134c       0x42 out/app/src/programa.o
- .debug_macro   0x0000138e      0xd39 out/app/src/programa.o
- .debug_macro   0x000020c7      0x2bc out/app/src/programa.o
- .debug_macro   0x00002383      0x112 out/app/src/programa.o
- .debug_macro   0x00002495       0x11 out/app/src/programa.o
- .debug_macro   0x000024a6       0x2a out/app/src/programa.o
- .debug_macro   0x000024d0       0x16 out/app/src/programa.o
- .debug_macro   0x000024e6      0x2e6 out/app/src/programa.o
- .debug_macro   0x000027cc       0x82 out/app/src/programa.o
- .debug_macro   0x0000284e      0x13d out/app/src/programa.o
- .debug_macro   0x0000298b      0x198 out/app/src/programa.o
- .debug_macro   0x00002b23       0x34 out/app/src/programa.o
- .debug_macro   0x00002b57       0x58 out/app/src/programa.o
- .debug_macro   0x00002baf      0x236 out/app/src/programa.o
- .debug_macro   0x00002de5      0x572 out/app/src/programa.o
- .debug_macro   0x00003357       0x16 out/app/src/programa.o
- .debug_macro   0x0000336d      0x18a out/app/src/programa.o
- .debug_macro   0x000034f7       0x88 out/app/src/programa.o
- .debug_macro   0x0000357f      0x1b9 out/app/src/programa.o
- .debug_macro   0x00003738      0x1da out/app/src/programa.o
- .debug_macro   0x00003912       0x40 out/app/src/programa.o
- .debug_macro   0x00003952       0x1c out/app/src/programa.o
- .debug_macro   0x0000396e       0x2e out/app/src/programa.o
- .debug_macro   0x0000399c       0x2e out/app/src/programa.o
- .debug_macro   0x000039ca       0x22 out/app/src/programa.o
- .debug_macro   0x000039ec      0x201 out/app/src/programa.o
- .debug_macro   0x00003bed       0xe0 out/app/src/programa.o
- .debug_macro   0x00003ccd      0x34c out/app/src/programa.o
- .debug_macro   0x00004019       0xdc out/app/src/programa.o
- .debug_macro   0x000040f5       0xc4 out/app/src/programa.o
- .debug_macro   0x000041b9       0x94 out/app/src/programa.o
- .debug_macro   0x0000424d       0xb8 out/app/src/programa.o
- .debug_macro   0x00004305       0x4c out/app/src/programa.o
- .debug_macro   0x00004351       0x16 out/app/src/programa.o
- .debug_macro   0x00004367      0x328 out/app/src/programa.o
- .debug_macro   0x0000468f       0x3a out/app/src/programa.o
- .debug_macro   0x000046c9       0xd0 out/app/src/programa.o
- .debug_macro   0x00004799       0x18 out/app/src/programa.o
- .debug_macro   0x000047b1       0x22 out/app/src/programa.o
- .debug_macro   0x000047d3       0x40 out/app/src/programa.o
- .debug_macro   0x00004813       0x4c out/app/src/programa.o
- .debug_macro   0x0000485f       0x52 out/app/src/programa.o
- .debug_macro   0x000048b1       0x35 out/app/src/programa.o
- .debug_macro   0x000048e6       0x9c out/app/src/programa.o
- .debug_macro   0x00004982       0x16 out/app/src/programa.o
- .debug_macro   0x00004998       0x97 out/app/src/programa.o
- .debug_macro   0x00004a2f      0x30d out/app/src/programa.o
- .debug_macro   0x00004d3c       0xfd out/app/src/programa.o
- .debug_macro   0x00004e39       0x10 out/app/src/programa.o
- .debug_macro   0x00004e49       0x52 out/app/src/programa.o
- .debug_macro   0x00004e9b       0x1f out/app/src/programa.o
- .debug_macro   0x00004eba       0x43 out/app/src/programa.o
- .debug_macro   0x00004efd       0x20 out/app/src/programa.o
- .debug_macro   0x00004f1d      0x187 out/app/src/programa.o
- .debug_macro   0x000050a4       0x10 out/app/src/programa.o
- .debug_macro   0x000050b4       0x1c out/app/src/programa.o
- .debug_macro   0x000050d0       0x52 out/app/src/programa.o
- .debug_macro   0x00005122       0x40 out/app/src/programa.o
- .debug_macro   0x00005162       0x10 out/app/src/programa.o
- .debug_macro   0x00005172       0x40 out/app/src/programa.o
- .debug_macro   0x000051b2       0xd7 out/app/src/programa.o
- .debug_macro   0x00005289       0x16 out/app/src/programa.o
- .debug_macro   0x0000529f      0x18b out/app/src/programa.o
- .debug_macro   0x0000542a       0x20 out/app/src/programa.o
- .debug_macro   0x0000544a       0x28 out/app/src/programa.o
- .debug_macro   0x00005472       0x16 out/app/src/programa.o
- .debug_macro   0x00005488       0x3a out/app/src/programa.o
- .debug_macro   0x000054c2       0x10 out/app/src/programa.o
- .debug_macro   0x000054d2       0x10 out/app/src/programa.o
- .debug_macro   0x000054e2       0x70 out/app/src/programa.o
- .debug_macro   0x00005552      0x2e9 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_macro   0x0000583b      0x2ef out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_macro   0x00005b2a       0xcf out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_macro   0x00005bf9      0x2e9 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_macro   0x00005ee2      0x2fb out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_macro   0x000061dd      0x2ef out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_macro   0x000064cc      0x2e9 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_macro   0x000067b5      0x2e9 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_macro   0x00006a9e      0x404 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x00006ea2       0x46 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x00006ee8       0x97 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x00006f7f       0xef out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x0000706e       0x10 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x0000707e       0x22 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x000070a0       0xbd out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x0000715d      0x196 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x000072f3       0x16 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_macro   0x00007309      0x3e7 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_macro   0x000076f0       0x1d out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_macro   0x0000770d       0x17 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_macro   0x00007724      0x3e7 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_macro   0x00007b0b      0x418 out/libs/sapi/src/sapi_board.o
- .debug_macro   0x00007f23      0x3f0 out/libs/sapi/src/sapi_datatypes.o
- .debug_macro   0x00008313      0x404 out/libs/sapi/src/sapi_gpio.o
- .debug_macro   0x00008717      0x41c out/libs/sapi/src/sapi_i2c.o
- .debug_macro   0x00008b33      0x3fa out/libs/sapi/src/sapi_tick.o
- .debug_macro   0x00008f2d      0x410 out/libs/sapi/src/sapi_timer.o
- .debug_macro   0x0000933d      0x43c out/libs/sapi/src/sapi_uart.o
+.debug_macro    0x00000000     0xa6fa
+ .debug_macro   0x00000000      0x535 out/app/src/checkState.o
+ .debug_macro   0x00000535      0x892 out/app/src/checkState.o
+ .debug_macro   0x00000dc7       0x22 out/app/src/checkState.o
+ .debug_macro   0x00000de9       0x87 out/app/src/checkState.o
+ .debug_macro   0x00000e70       0x44 out/app/src/checkState.o
+ .debug_macro   0x00000eb4       0xfd out/app/src/checkState.o
+ .debug_macro   0x00000fb1       0x5e out/app/src/checkState.o
+ .debug_macro   0x0000100f      0x1df out/app/src/checkState.o
+ .debug_macro   0x000011ee       0x10 out/app/src/checkState.o
+ .debug_macro   0x000011fe       0x22 out/app/src/checkState.o
+ .debug_macro   0x00001220       0x66 out/app/src/checkState.o
+ .debug_macro   0x00001286       0x28 out/app/src/checkState.o
+ .debug_macro   0x000012ae       0x3b out/app/src/checkState.o
+ .debug_macro   0x000012e9       0x2d out/app/src/checkState.o
+ .debug_macro   0x00001316       0x42 out/app/src/checkState.o
+ .debug_macro   0x00001358      0xd39 out/app/src/checkState.o
+ .debug_macro   0x00002091      0x2bc out/app/src/checkState.o
+ .debug_macro   0x0000234d      0x112 out/app/src/checkState.o
+ .debug_macro   0x0000245f       0x11 out/app/src/checkState.o
+ .debug_macro   0x00002470       0x2a out/app/src/checkState.o
+ .debug_macro   0x0000249a       0x16 out/app/src/checkState.o
+ .debug_macro   0x000024b0      0x2e6 out/app/src/checkState.o
+ .debug_macro   0x00002796       0x82 out/app/src/checkState.o
+ .debug_macro   0x00002818      0x13d out/app/src/checkState.o
+ .debug_macro   0x00002955      0x198 out/app/src/checkState.o
+ .debug_macro   0x00002aed       0x34 out/app/src/checkState.o
+ .debug_macro   0x00002b21       0x58 out/app/src/checkState.o
+ .debug_macro   0x00002b79      0x236 out/app/src/checkState.o
+ .debug_macro   0x00002daf      0x572 out/app/src/checkState.o
+ .debug_macro   0x00003321       0x16 out/app/src/checkState.o
+ .debug_macro   0x00003337      0x18a out/app/src/checkState.o
+ .debug_macro   0x000034c1       0x88 out/app/src/checkState.o
+ .debug_macro   0x00003549      0x1b9 out/app/src/checkState.o
+ .debug_macro   0x00003702      0x1da out/app/src/checkState.o
+ .debug_macro   0x000038dc       0x40 out/app/src/checkState.o
+ .debug_macro   0x0000391c       0x1c out/app/src/checkState.o
+ .debug_macro   0x00003938       0x2e out/app/src/checkState.o
+ .debug_macro   0x00003966       0x2e out/app/src/checkState.o
+ .debug_macro   0x00003994       0x22 out/app/src/checkState.o
+ .debug_macro   0x000039b6      0x201 out/app/src/checkState.o
+ .debug_macro   0x00003bb7       0xe0 out/app/src/checkState.o
+ .debug_macro   0x00003c97      0x34c out/app/src/checkState.o
+ .debug_macro   0x00003fe3       0xdc out/app/src/checkState.o
+ .debug_macro   0x000040bf       0xc4 out/app/src/checkState.o
+ .debug_macro   0x00004183       0x94 out/app/src/checkState.o
+ .debug_macro   0x00004217       0xb8 out/app/src/checkState.o
+ .debug_macro   0x000042cf       0x4c out/app/src/checkState.o
+ .debug_macro   0x0000431b       0x16 out/app/src/checkState.o
+ .debug_macro   0x00004331      0x328 out/app/src/checkState.o
+ .debug_macro   0x00004659       0x3a out/app/src/checkState.o
+ .debug_macro   0x00004693       0xd0 out/app/src/checkState.o
+ .debug_macro   0x00004763       0x18 out/app/src/checkState.o
+ .debug_macro   0x0000477b       0x22 out/app/src/checkState.o
+ .debug_macro   0x0000479d       0x40 out/app/src/checkState.o
+ .debug_macro   0x000047dd       0x4c out/app/src/checkState.o
+ .debug_macro   0x00004829       0x52 out/app/src/checkState.o
+ .debug_macro   0x0000487b       0x35 out/app/src/checkState.o
+ .debug_macro   0x000048b0       0x9c out/app/src/checkState.o
+ .debug_macro   0x0000494c       0x16 out/app/src/checkState.o
+ .debug_macro   0x00004962       0x97 out/app/src/checkState.o
+ .debug_macro   0x000049f9      0x30d out/app/src/checkState.o
+ .debug_macro   0x00004d06       0xfd out/app/src/checkState.o
+ .debug_macro   0x00004e03       0x10 out/app/src/checkState.o
+ .debug_macro   0x00004e13       0x52 out/app/src/checkState.o
+ .debug_macro   0x00004e65       0x1f out/app/src/checkState.o
+ .debug_macro   0x00004e84       0x43 out/app/src/checkState.o
+ .debug_macro   0x00004ec7       0x20 out/app/src/checkState.o
+ .debug_macro   0x00004ee7      0x187 out/app/src/checkState.o
+ .debug_macro   0x0000506e       0x10 out/app/src/checkState.o
+ .debug_macro   0x0000507e       0x1c out/app/src/checkState.o
+ .debug_macro   0x0000509a       0x52 out/app/src/checkState.o
+ .debug_macro   0x000050ec       0x40 out/app/src/checkState.o
+ .debug_macro   0x0000512c       0x10 out/app/src/checkState.o
+ .debug_macro   0x0000513c       0x40 out/app/src/checkState.o
+ .debug_macro   0x0000517c       0xd7 out/app/src/checkState.o
+ .debug_macro   0x00005253       0x16 out/app/src/checkState.o
+ .debug_macro   0x00005269      0x18b out/app/src/checkState.o
+ .debug_macro   0x000053f4       0x20 out/app/src/checkState.o
+ .debug_macro   0x00005414       0x28 out/app/src/checkState.o
+ .debug_macro   0x0000543c       0x16 out/app/src/checkState.o
+ .debug_macro   0x00005452       0x3a out/app/src/checkState.o
+ .debug_macro   0x0000548c       0x10 out/app/src/checkState.o
+ .debug_macro   0x0000549c       0x10 out/app/src/checkState.o
+ .debug_macro   0x000054ac       0x70 out/app/src/checkState.o
+ .debug_macro   0x0000551c      0x523 out/app/src/obtenerDatos.o
+ .debug_macro   0x00005a3f      0x569 out/app/src/programa.o
+ .debug_macro   0x00005fa8      0x52b out/app/src/stateMachine.o
+ .debug_macro   0x000064d3      0x2e9 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_macro   0x000067bc      0x2ef out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_macro   0x00006aab       0xcf out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_macro   0x00006b7a      0x2e9 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_macro   0x00006e63      0x2fb out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_macro   0x0000715e      0x2ef out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_macro   0x0000744d      0x2e9 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_macro   0x00007736      0x2e9 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_macro   0x00007a1f      0x404 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00007e23       0x46 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00007e69       0x97 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00007f00       0xef out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00007fef       0x10 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00007fff       0x22 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00008021       0xbd out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x000080de      0x196 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x00008274       0x16 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_macro   0x0000828a      0x3e7 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_macro   0x00008671       0x1d out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_macro   0x0000868e       0x17 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_macro   0x000086a5      0x3e7 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_macro   0x00008a8c      0x418 out/libs/sapi/src/sapi_board.o
+ .debug_macro   0x00008ea4      0x3f0 out/libs/sapi/src/sapi_datatypes.o
+ .debug_macro   0x00009294      0x404 out/libs/sapi/src/sapi_gpio.o
+ .debug_macro   0x00009698      0x41c out/libs/sapi/src/sapi_i2c.o
+ .debug_macro   0x00009ab4      0x3fa out/libs/sapi/src/sapi_tick.o
+ .debug_macro   0x00009eae      0x410 out/libs/sapi/src/sapi_timer.o
+ .debug_macro   0x0000a2be      0x43c out/libs/sapi/src/sapi_uart.o
 
-.debug_line     0x00000000     0x9b8e
- .debug_line    0x00000000      0xa64 out/app/src/programa.o
- .debug_line    0x00000a64      0x6cb out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_line    0x0000112f      0xa74 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_line    0x00001ba3      0x286 out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_line    0x00001e29      0x6f0 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_line    0x00002519      0x952 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_line    0x00002e6b      0x822 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_line    0x0000368d      0x73f out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_line    0x00003dcc      0x961 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_line    0x0000472d      0x90e out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_line    0x0000503b      0x7c3 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_line    0x000057fe      0x11c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_line    0x0000591a       0x47 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
- .debug_line    0x00005961      0x76e out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_line    0x000060cf      0x7e1 out/libs/sapi/src/sapi_board.o
- .debug_line    0x000068b0      0x781 out/libs/sapi/src/sapi_datatypes.o
- .debug_line    0x00007031      0x89a out/libs/sapi/src/sapi_gpio.o
- .debug_line    0x000078cb      0x861 out/libs/sapi/src/sapi_i2c.o
- .debug_line    0x0000812c      0x7e3 out/libs/sapi/src/sapi_tick.o
- .debug_line    0x0000890f      0x977 out/libs/sapi/src/sapi_timer.o
- .debug_line    0x00009286      0x908 out/libs/sapi/src/sapi_uart.o
+.debug_line     0x00000000     0xb76e
+ .debug_line    0x00000000      0x95f out/app/src/checkState.o
+ .debug_line    0x0000095f      0x962 out/app/src/obtenerDatos.o
+ .debug_line    0x000012c1      0x9d6 out/app/src/programa.o
+ .debug_line    0x00001c97      0x9ad out/app/src/stateMachine.o
+ .debug_line    0x00002644      0x6cb out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_line    0x00002d0f      0xa74 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_line    0x00003783      0x286 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_line    0x00003a09      0x6f0 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_line    0x000040f9      0x952 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_line    0x00004a4b      0x822 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_line    0x0000526d      0x73f out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_line    0x000059ac      0x961 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_line    0x0000630d      0x90e out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_line    0x00006c1b      0x7c3 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_line    0x000073de      0x11c out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_line    0x000074fa       0x47 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_line    0x00007541      0x76e out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_line    0x00007caf      0x7e1 out/libs/sapi/src/sapi_board.o
+ .debug_line    0x00008490      0x781 out/libs/sapi/src/sapi_datatypes.o
+ .debug_line    0x00008c11      0x89a out/libs/sapi/src/sapi_gpio.o
+ .debug_line    0x000094ab      0x861 out/libs/sapi/src/sapi_i2c.o
+ .debug_line    0x00009d0c      0x7e3 out/libs/sapi/src/sapi_tick.o
+ .debug_line    0x0000a4ef      0x977 out/libs/sapi/src/sapi_timer.o
+ .debug_line    0x0000ae66      0x908 out/libs/sapi/src/sapi_uart.o
 
-.debug_str      0x00000000    0x1d42d
- .debug_str     0x00000000    0x19839 out/app/src/programa.o
-                              0x19b49 (size before relaxing)
- .debug_str     0x00019839      0xdd1 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+.debug_str      0x00000000    0x1d452
+ .debug_str     0x00000000    0x1873b out/app/src/checkState.o
+                              0x189b1 (size before relaxing)
+ .debug_str     0x0001873b       0xa1 out/app/src/obtenerDatos.o
+                              0x188e0 (size before relaxing)
+ .debug_str     0x000187dc      0x647 out/app/src/programa.o
+                              0x19068 (size before relaxing)
+ .debug_str     0x00018e23      0xa31 out/app/src/stateMachine.o
+                              0x193e3 (size before relaxing)
+ .debug_str     0x00019854      0xdd1 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
                               0x151dc (size before relaxing)
- .debug_str     0x0001a60a      0x514 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_str     0x0001a625      0x514 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
                               0x15645 (size before relaxing)
- .debug_str     0x0001ab1e       0xc5 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_str     0x0001ab39       0xc5 out/libs/lpc_chip_43xx/src/fpu_init.o
                                0x8c50 (size before relaxing)
- .debug_str     0x0001abe3      0x14a out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_str     0x0001abfe      0x14a out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
                               0x144bd (size before relaxing)
- .debug_str     0x0001ad2d      0x5b1 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_str     0x0001ad48      0x5b1 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
                               0x153b1 (size before relaxing)
- .debug_str     0x0001b2de      0x1bb out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_str     0x0001b2f9      0x1bb out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
                               0x14a1e (size before relaxing)
- .debug_str     0x0001b499       0xf7 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_str     0x0001b4b4       0xf7 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
                               0x150cd (size before relaxing)
- .debug_str     0x0001b590      0x474 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_str     0x0001b5ab      0x474 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
                               0x1527f (size before relaxing)
- .debug_str     0x0001ba04      0xd10 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_str     0x0001ba1f      0xd10 out/libs/lpc_board_ciaa_edu_4337/src/board.o
                               0x187c7 (size before relaxing)
- .debug_str     0x0001c714       0xdf out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_str     0x0001c72f       0xdf out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
                               0x1836d (size before relaxing)
- .debug_str     0x0001c7f3      0x1f8 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_str     0x0001c80e      0x1f8 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
                                0x26a3 (size before relaxing)
- .debug_str     0x0001c9eb       0x46 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+ .debug_str     0x0001ca06       0x46 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
                                0x24cd (size before relaxing)
- .debug_str     0x0001ca31       0x35 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_str     0x0001ca4c       0x35 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
                               0x17580 (size before relaxing)
- .debug_str     0x0001ca66       0x50 out/libs/sapi/src/sapi_board.o
+ .debug_str     0x0001ca81       0x50 out/libs/sapi/src/sapi_board.o
                               0x1780f (size before relaxing)
- .debug_str     0x0001cab6       0x30 out/libs/sapi/src/sapi_datatypes.o
+ .debug_str     0x0001cad1       0x30 out/libs/sapi/src/sapi_datatypes.o
                               0x175b8 (size before relaxing)
- .debug_str     0x0001cae6       0xe7 out/libs/sapi/src/sapi_gpio.o
+ .debug_str     0x0001cb01       0xf1 out/libs/sapi/src/sapi_gpio.o
                               0x183b6 (size before relaxing)
- .debug_str     0x0001cbcd      0x115 out/libs/sapi/src/sapi_i2c.o
+ .debug_str     0x0001cbf2      0x115 out/libs/sapi/src/sapi_i2c.o
                               0x17a44 (size before relaxing)
- .debug_str     0x0001cce2      0x10f out/libs/sapi/src/sapi_tick.o
+ .debug_str     0x0001cd07      0x10f out/libs/sapi/src/sapi_tick.o
                               0x184c8 (size before relaxing)
- .debug_str     0x0001cdf1      0x3d9 out/libs/sapi/src/sapi_timer.o
+ .debug_str     0x0001ce16      0x3d9 out/libs/sapi/src/sapi_timer.o
                               0x18800 (size before relaxing)
- .debug_str     0x0001d1ca      0x263 out/libs/sapi/src/sapi_uart.o
+ .debug_str     0x0001d1ef      0x263 out/libs/sapi/src/sapi_uart.o
                               0x17a81 (size before relaxing)
 
 .comment        0x00000000       0xde
- .comment       0x00000000       0x6e out/app/src/programa.o
+ .comment       0x00000000       0x6e out/app/src/checkState.o
                                  0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f out/app/src/obtenerDatos.o
+ .comment       0x0000006e       0x6f out/app/src/programa.o
+ .comment       0x0000006e       0x6f out/app/src/stateMachine.o
  .comment       0x0000006e       0x70 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
                                  0x71 (size before relaxing)
  .comment       0x000000de       0x71 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
@@ -9927,80 +10487,89 @@ OUTPUT(out/program.elf elf32-littlearm)
 .ARM.attributes
                 0x00000000       0x39
  .ARM.attributes
-                0x00000000       0x39 out/app/src/programa.o
+                0x00000000       0x39 out/app/src/checkState.o
  .ARM.attributes
-                0x00000039       0x39 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+                0x00000039       0x39 out/app/src/obtenerDatos.o
  .ARM.attributes
-                0x00000072       0x39 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+                0x00000072       0x39 out/app/src/programa.o
  .ARM.attributes
-                0x000000ab       0x39 out/libs/lpc_chip_43xx/src/fpu_init.o
+                0x000000ab       0x39 out/app/src/stateMachine.o
  .ARM.attributes
-                0x000000e4       0x39 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+                0x000000e4       0x39 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
  .ARM.attributes
-                0x0000011d       0x39 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+                0x0000011d       0x39 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
  .ARM.attributes
-                0x00000156       0x39 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+                0x00000156       0x39 out/libs/lpc_chip_43xx/src/fpu_init.o
  .ARM.attributes
-                0x0000018f       0x39 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+                0x0000018f       0x39 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
  .ARM.attributes
-                0x000001c8       0x39 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+                0x000001c8       0x39 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
  .ARM.attributes
-                0x00000201       0x39 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+                0x00000201       0x39 out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
  .ARM.attributes
-                0x0000023a       0x39 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+                0x0000023a       0x39 out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
  .ARM.attributes
-                0x00000273       0x39 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+                0x00000273       0x39 out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
  .ARM.attributes
-                0x000002ac       0x39 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
+                0x000002ac       0x39 out/libs/lpc_board_ciaa_edu_4337/src/board.o
  .ARM.attributes
-                0x000002e5       0x39 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+                0x000002e5       0x39 out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
  .ARM.attributes
-                0x0000031e       0x39 out/libs/sapi/src/sapi_board.o
+                0x0000031e       0x39 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
  .ARM.attributes
-                0x00000357       0x39 out/libs/sapi/src/sapi_datatypes.o
+                0x00000357       0x39 out/libs/lpc_board_ciaa_edu_4337/src/crp.o
  .ARM.attributes
-                0x00000390       0x39 out/libs/sapi/src/sapi_gpio.o
+                0x00000390       0x39 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
  .ARM.attributes
-                0x000003c9       0x39 out/libs/sapi/src/sapi_i2c.o
+                0x000003c9       0x39 out/libs/sapi/src/sapi_board.o
  .ARM.attributes
-                0x00000402       0x39 out/libs/sapi/src/sapi_tick.o
+                0x00000402       0x39 out/libs/sapi/src/sapi_datatypes.o
  .ARM.attributes
-                0x0000043b       0x39 out/libs/sapi/src/sapi_timer.o
+                0x0000043b       0x39 out/libs/sapi/src/sapi_gpio.o
  .ARM.attributes
-                0x00000474       0x39 out/libs/sapi/src/sapi_uart.o
+                0x00000474       0x39 out/libs/sapi/src/sapi_i2c.o
  .ARM.attributes
-                0x000004ad       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+                0x000004ad       0x39 out/libs/sapi/src/sapi_tick.o
  .ARM.attributes
-                0x000004cf       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+                0x000004e6       0x39 out/libs/sapi/src/sapi_timer.o
  .ARM.attributes
-                0x00000503       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+                0x0000051f       0x39 out/libs/sapi/src/sapi_uart.o
  .ARM.attributes
-                0x00000525       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+                0x00000558       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000057a       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000005ae       0x22 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000005d0       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
 
-.debug_frame    0x00000000     0x11f0
- .debug_frame   0x00000000       0xb8 out/app/src/programa.o
- .debug_frame   0x000000b8       0x70 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
- .debug_frame   0x00000128      0x310 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
- .debug_frame   0x00000438       0x28 out/libs/lpc_chip_43xx/src/fpu_init.o
- .debug_frame   0x00000460       0x88 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
- .debug_frame   0x000004e8      0x260 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
- .debug_frame   0x00000748       0xec out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
- .debug_frame   0x00000834       0x7c out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
- .debug_frame   0x000008b0      0x1ec out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
- .debug_frame   0x00000a9c      0x138 out/libs/lpc_board_ciaa_edu_4337/src/board.o
- .debug_frame   0x00000bd4       0x5c out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
- .debug_frame   0x00000c30       0xf4 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
- .debug_frame   0x00000d24       0x28 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
- .debug_frame   0x00000d4c       0x28 out/libs/sapi/src/sapi_board.o
- .debug_frame   0x00000d74       0x20 out/libs/sapi/src/sapi_datatypes.o
- .debug_frame   0x00000d94       0xa0 out/libs/sapi/src/sapi_gpio.o
- .debug_frame   0x00000e34       0xe0 out/libs/sapi/src/sapi_i2c.o
- .debug_frame   0x00000f14       0x60 out/libs/sapi/src/sapi_tick.o
- .debug_frame   0x00000f74      0x124 out/libs/sapi/src/sapi_timer.o
- .debug_frame   0x00001098       0xd8 out/libs/sapi/src/sapi_uart.o
- .debug_frame   0x00001170       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
- .debug_frame   0x0000119c       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
- .debug_frame   0x000011d0       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
+.debug_frame    0x00000000     0x11fc
+ .debug_frame   0x00000000       0x2c out/app/src/checkState.o
+ .debug_frame   0x0000002c       0x30 out/app/src/obtenerDatos.o
+ .debug_frame   0x0000005c       0x40 out/app/src/programa.o
+ .debug_frame   0x0000009c       0x28 out/app/src/stateMachine.o
+ .debug_frame   0x000000c4       0x70 out/libs/lpc_chip_43xx/src/chip_18xx_43xx.o
+ .debug_frame   0x00000134      0x310 out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
+ .debug_frame   0x00000444       0x28 out/libs/lpc_chip_43xx/src/fpu_init.o
+ .debug_frame   0x0000046c       0x88 out/libs/lpc_chip_43xx/src/gpio_18xx_43xx.o
+ .debug_frame   0x000004f4      0x260 out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
+ .debug_frame   0x00000754       0xec out/libs/lpc_chip_43xx/src/i2cm_18xx_43xx.o
+ .debug_frame   0x00000840       0x7c out/libs/lpc_chip_43xx/src/sysinit_18xx_43xx.o
+ .debug_frame   0x000008bc      0x1ec out/libs/lpc_chip_43xx/src/uart_18xx_43xx.o
+ .debug_frame   0x00000aa8      0x138 out/libs/lpc_board_ciaa_edu_4337/src/board.o
+ .debug_frame   0x00000be0       0x5c out/libs/lpc_board_ciaa_edu_4337/src/board_sysinit.o
+ .debug_frame   0x00000c3c       0xf4 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
+ .debug_frame   0x00000d30       0x28 out/libs/lpc_board_ciaa_edu_4337/src/sysinit.o
+ .debug_frame   0x00000d58       0x28 out/libs/sapi/src/sapi_board.o
+ .debug_frame   0x00000d80       0x20 out/libs/sapi/src/sapi_datatypes.o
+ .debug_frame   0x00000da0       0xa0 out/libs/sapi/src/sapi_gpio.o
+ .debug_frame   0x00000e40       0xe0 out/libs/sapi/src/sapi_i2c.o
+ .debug_frame   0x00000f20       0x60 out/libs/sapi/src/sapi_tick.o
+ .debug_frame   0x00000f80      0x124 out/libs/sapi/src/sapi_timer.o
+ .debug_frame   0x000010a4       0xd8 out/libs/sapi/src/sapi_uart.o
+ .debug_frame   0x0000117c       0x2c c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x000011a8       0x34 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7e-m/fpu\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x000011dc       0x20 c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
 
 Cross Reference Table
 
@@ -10428,7 +10997,8 @@ I2S0_IRQHandler                                   out/libs/lpc_board_ciaa_edu_43
 I2S1_IRQHandler                                   out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 IntDefaultHandler                                 out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 LCD_IRQHandler                                    out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
-LEDCONTROL                                        out/app/src/programa.o
+LEDCONTROL                                        out/app/src/stateMachine.o
+                                                  out/app/src/programa.o
 M0APP_IRQHandler                                  out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 M0SUB_IRQHandler                                  out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 MCPWM_IRQHandler                                  out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
@@ -10470,8 +11040,7 @@ SPIFI_IRQHandler                                  out/libs/lpc_board_ciaa_edu_43
 SPI_IRQHandler                                    out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 SSP0_IRQHandler                                   out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 SSP1_IRQHandler                                   out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
-STATE                                             out/app/src/programa.o
-STATE_MACHINE                                     out/app/src/programa.o
+STATE                                             out/app/src/stateMachine.o
 SVC_Handler                                       out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
 Sct_EnablePwmFor                                  out/libs/sapi/src/sapi_sct.o
                                                   out/libs/sapi/src/sapi_pwm.o
@@ -10572,7 +11141,8 @@ adcRead                                           out/libs/sapi/src/sapi_adc.o
 boardConfig                                       out/libs/sapi/src/sapi_board.o
                                                   out/app/src/programa.o
 bss_init                                          out/libs/lpc_board_ciaa_edu_4337/src/cr_startup_lpc43xx.o
-check_state                                       out/app/src/programa.o
+check_state                                       out/app/src/checkState.o
+                                                  out/app/src/stateMachine.o
 circularBufferConfig                              out/libs/sapi/src/sapi_circularBuffer.o
 circularBufferRead                                out/libs/sapi/src/sapi_circularBuffer.o
 circularBufferWrite                               out/libs/sapi/src/sapi_circularBuffer.o
@@ -10606,14 +11176,13 @@ gpioConfig                                        out/libs/sapi/src/sapi_gpio.o
 gpioPinsConfig                                    out/libs/sapi/src/sapi_gpio.o
 gpioRead                                          out/libs/sapi/src/sapi_gpio.o
                                                   out/libs/sapi/src/sapi_keypad.o
-                                                  out/app/src/programa.o
+                                                  out/app/src/checkState.o
 gpioToggle                                        out/libs/sapi/src/sapi_gpio.o
                                                   out/app/src/programa.o
 gpioWrite                                         out/libs/sapi/src/sapi_gpio.o
                                                   out/libs/sapi/src/sapi_servo.o
                                                   out/libs/sapi/src/sapi_keypad.o
                                                   out/libs/sapi/src/sapi_7_segment_display.o
-                                                  out/app/src/programa.o
 handleMasterXferState                             out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
 handleSlaveXferState                              out/libs/lpc_chip_43xx/src/i2c_18xx_43xx.o
 hmc5883lConfig                                    out/libs/sapi/src/sapi_hmc5883l.o
@@ -10625,12 +11194,12 @@ i2cConfig                                         out/libs/sapi/src/sapi_i2c.o
                                                   out/app/src/programa.o
 i2cRead                                           out/libs/sapi/src/sapi_i2c.o
                                                   out/libs/sapi/src/sapi_hmc5883l.o
-                                                  out/app/src/programa.o
+                                                  out/app/src/obtenerDatos.o
 i2cWrite                                          out/libs/sapi/src/sapi_i2c.o
                                                   out/libs/sapi/src/sapi_hmc5883l.o
 initDynMem                                        out/libs/lpc_chip_43xx/src/emc_18xx_43xx.o
 initStaticMem                                     out/libs/lpc_chip_43xx/src/emc_18xx_43xx.o
-itoa                                              out/app/src/programa.o
+itoa                                              out/app/src/itoa.o
 keypadConfig                                      out/libs/sapi/src/sapi_keypad.o
 keypadRead                                        out/libs/sapi/src/sapi_keypad.o
 main                                              out/app/src/programa.o
@@ -10640,7 +11209,8 @@ memcpy                                            c:/program files (x86)/gnu too
                                                   out/libs/lpc_chip_43xx/src/ring_buffer.o
 memset                                            c:/program files (x86)/gnu tools arm embedded/5.4 2016q3/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc_nano.a(lib_a-memset.o)
                                                   out/libs/lpc_chip_43xx/src/clock_18xx_43xx.o
-obtenerDatos                                      out/app/src/programa.o
+obtenerDatos                                      out/app/src/obtenerDatos.o
+                                                  out/app/src/stateMachine.o
 pwmConfig                                         out/libs/sapi/src/sapi_pwm.o
 pwmIsAttached                                     out/libs/sapi/src/sapi_pwm.o
 pwmRead                                           out/libs/sapi/src/sapi_pwm.o
@@ -10658,6 +11228,8 @@ servoWrite                                        out/libs/sapi/src/sapi_servo.o
 setStartMode                                      out/libs/lpc_chip_43xx/src/adc_18xx_43xx.o
 setupChannel                                      out/libs/lpc_chip_43xx/src/gpdma_18xx_43xx.o
 sleepUntilNextInterrupt                           out/libs/sapi/src/sapi_sleep.o
+stateMachine                                      out/app/src/stateMachine.o
+                                                  out/app/src/programa.o
 tickConfig                                        out/libs/sapi/src/sapi_tick.o
                                                   out/libs/sapi/src/sapi_board.o
 tickCounter                                       out/libs/sapi/src/sapi_tick.o
@@ -10672,6 +11244,6 @@ uartConfig                                        out/libs/sapi/src/sapi_uart.o
 uartReadByte                                      out/libs/sapi/src/sapi_uart.o
 uartWriteByte                                     out/libs/sapi/src/sapi_uart.o
 uartWriteString                                   out/libs/sapi/src/sapi_uart.o
-                                                  out/app/src/programa.o
+                                                  out/app/src/obtenerDatos.o
 waitForReceiveStringOrTimeout                     out/libs/sapi/src/sapi_uart.o
 waitForReceiveStringOrTimeoutBlocking             out/libs/sapi/src/sapi_uart.o

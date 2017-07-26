@@ -3,7 +3,6 @@
  * Autor: 
  * Fecha: 
  *===========================================================================*/
-
 #ifndef _PROGRAM_H_
 #define _PROGRAM_H_
 
@@ -21,8 +20,9 @@ extern "C" {
 
 /*==================[declaraciones de datos externos]========================*/
 
+
 /*==================[declaraciones de funciones externas]====================*/
-int check_state(int p1,int p2, int p3);
+
 
 /*==================[c++]====================================================*/
 #ifdef __cplusplus

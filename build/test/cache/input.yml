@@ -22,7 +22,8 @@
   - "+:test/**"
   - "-:test/support"
   :source:
-  - src/**
+  - app/**
+  - libs/**
   :support:
   - test/support
   :include: []
@@ -70,10 +71,10 @@
   :testfail: ".fail"
   :dependencies: ".d"
 :unity:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
   :defines: []
 :cmock:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
   :defines: []
   :includes: []
   :mock_prefix: mock_
@@ -92,7 +93,7 @@
   :verbosity: 3
   :unity_helper: false
 :cexception:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
   :defines: []
 :test_runner:
   :includes: []
