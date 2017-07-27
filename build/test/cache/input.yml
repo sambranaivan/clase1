@@ -71,10 +71,10 @@
   :testfail: ".fail"
   :dependencies: ".d"
 :unity:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
   :defines: []
 :cmock:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
   :defines: []
   :includes: []
   :mock_prefix: mock_
@@ -93,12 +93,28 @@
   :verbosity: 3
   :unity_helper: false
 :cexception:
-  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterruptcopia/vendor/ceedling/vendor
+  :vendor_path: C:/Users/Sambrana Ivan/embedded-ide-workspace/projects/gpioInterrupt/vendor/ceedling/vendor
   :defines: []
 :test_runner:
   :includes: []
   :file_suffix: _runner
 :tools:
+  :release_compiler:
+    :executable: arm-none-eabi-gcc
+    :arguments:
+    - "${1}"
+    - "-DTARGET"
+    - "-DF_CPU=#{ENV['F_CPU']}"
+    - "-mmcu=#{ENV['MCU']}"
+    - "-Iinclude/"
+    - "-Wall"
+    - "-Os"
+    - "-c"
+    - "-o ${2}"
+    :name: release_compiler
+    :stderr_redirect: :none
+    :background_exec: :none
+    :optional: false
   :test_compiler:
     :executable: gcc.exe
     :name: default_test_compiler
