@@ -54,4 +54,4 @@ out/libs/lpc_chip_43xx/src/sdmmc_18xx_43xx.o: \
  libs/lpc_chip_43xx/inc/romapi_18xx_43xx.h \
  libs/lpc_chip_43xx/inc/iap_18xx_43xx.h libs/lpc_chip_43xx/inc/error.h \
  libs/lpc_chip_43xx/inc/i2cm_18xx_43xx.h \
- libs/lpc_chip_43xx/inc/fpu_init.h
+ libs/lpc_chip_43xx/inc/fpu_init.h app/inc/string.h

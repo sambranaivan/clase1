@@ -1,9 +1,9 @@
-out/app/src/gpioInterrupt.o: app/src/gpioInterrupt.c app/inc/programa.h \
- libs/sapi/inc/sapi.h libs/sapi/inc/sapi_datatypes.h \
- libs/lpc_chip_43xx/inc/chip.h libs/lpc_chip_43xx/inc/sys_config.h \
- libs/lpc_chip_43xx/inc/cmsis.h libs/lpc_chip_43xx/inc/lpc_types.h \
- libs/lpc_chip_43xx/inc/cmsis_43xx.h libs/lpc_chip_43xx/inc/core_cm4.h \
- libs/lpc_chip_43xx/inc/core_cmInstr.h \
+out/app/src/obtenerRegistro.o: app/src/obtenerRegistro.c \
+ app/inc/obtenerRegistro.h libs/sapi/inc/sapi.h \
+ libs/sapi/inc/sapi_datatypes.h libs/lpc_chip_43xx/inc/chip.h \
+ libs/lpc_chip_43xx/inc/sys_config.h libs/lpc_chip_43xx/inc/cmsis.h \
+ libs/lpc_chip_43xx/inc/lpc_types.h libs/lpc_chip_43xx/inc/cmsis_43xx.h \
+ libs/lpc_chip_43xx/inc/core_cm4.h libs/lpc_chip_43xx/inc/core_cmInstr.h \
  libs/lpc_chip_43xx/inc/core_cmFunc.h \
  libs/lpc_chip_43xx/inc/core_cm4_simd.h \
  libs/lpc_chip_43xx/inc/chip_lpc43xx.h \
@@ -67,4 +67,4 @@ out/app/src/gpioInterrupt.o: app/src/gpioInterrupt.c app/inc/programa.h \
  libs/sapi/inc/sapi_circularBuffer.h \
  libs/sapi/inc/sapi_7_segment_display.h libs/sapi/inc/sapi_keypad.h \
  libs/sapi/inc/sapi_pwm.h libs/sapi/inc/sapi_servo.h \
- libs/sapi/inc/sapi_hmc5883l.h
+ libs/sapi/inc/sapi_hmc5883l.h app/inc/itoa.h

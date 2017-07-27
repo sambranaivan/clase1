@@ -57,4 +57,4 @@ out/libs/lpc_board_ciaa_edu_4337/src/board.o: \
  libs/lpc_chip_43xx/inc/i2cm_18xx_43xx.h \
  libs/lpc_chip_43xx/inc/fpu_init.h \
  libs/lpc_board_ciaa_edu_4337/inc/board_api.h \
- libs/lpc_chip_43xx/inc/lpc_types.h
+ libs/lpc_chip_43xx/inc/lpc_types.h app/inc/string.h

@@ -67,5 +67,4 @@ out/app/src/programa.o: app/src/programa.c app/inc/programa.h \
  libs/sapi/inc/sapi_circularBuffer.h \
  libs/sapi/inc/sapi_7_segment_display.h libs/sapi/inc/sapi_keypad.h \
  libs/sapi/inc/sapi_pwm.h libs/sapi/inc/sapi_servo.h \
- libs/sapi/inc/sapi_hmc5883l.h app/inc/itoa.h app/inc/checkState.h \
- app/inc/stateMachine.h app/inc/obtenerDatos.h
+ libs/sapi/inc/sapi_hmc5883l.h app/inc/stateMachine.h

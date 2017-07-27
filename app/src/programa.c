@@ -9,10 +9,10 @@
 #include "programa.h"   // <= su propio archivo de cabecera
 #include "sapi.h"       // <= Biblioteca sAPI
 #include "chip.h"       // <= Biblioteca LPCOpen, capa chip (del fabricante NXP)
-#include "itoa.h"
-#include "checkState.h"
+
+
 #include "stateMachine.h"
-#include "obtenerDatos.h"
+
 
 /*==================[definiciones y macros]==================================*/
 
@@ -48,13 +48,6 @@
 
 /*==================[declaraciones de funciones internas]====================*/
 
-
-
-
-
-
-
-
 /*==================[declaraciones de funciones externas]====================*/
 
 /*==================[funcion principal]======================================*/
@@ -64,17 +57,7 @@ void PININT_IRQ_HANDLER(void)
 {
    Chip_PININT_ClearIntStatus( LPC_GPIO_PIN_INT, PININTCH(PININT_INDEX) );
     stateMachine();
-   gpioToggle(LEDCONTROL);//LEd de conntrol de interrupciones
-  
-   // if(gpioRead(PIN_1)){gpioWrite(LED1,ON);}
-    //else{gpioWrite(LED1,OFF);}
-     // if(gpioRead(PIN_2)){gpioWrite(LED2,ON);}
-     // else{gpioWrite(LED2,OFF);}
-      //if(gpioRead(PIN_3)){gpioWrite(LED3,ON);}
-      //else{gpioWrite(LED3,OFF);}      
-      
-    
-   
+   gpioToggle(LEDCONTROL);//LEd de conntrol de interrupciones 
 }
 
 // FUNCION PRINCIPAL, PUNTO DE ENTRADA AL PROGRAMA LUEGO DE ENCENDIDO O RESET.
@@ -88,12 +71,8 @@ int main( void ){
    /* Configuración de GPIO0 de la EDU-CIAA-NXP como entrada con pull-up */
    gpioConfig( GPIO0, GPIO_INPUT_PULLUP );
     
-    /*CONFIGURAR GPIO 1,2,3*/
-
-  
-    
-    i2cConfig( I2C0, 100000 );
-    uartConfig( UART_USB, 115200 );
+   i2cConfig( I2C0, 100000 );
+   uartConfig( UART_USB, 115200 );
     
     //gpioWrite(LEDB,gpioRead(PIN_1));
    // Comienzo de funciones LPCOpen para configurar la interrupción

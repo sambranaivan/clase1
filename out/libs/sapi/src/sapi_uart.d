@@ -58,4 +58,5 @@ out/libs/sapi/src/sapi_uart.o: libs/sapi/src/sapi_uart.c \
  libs/lpc_chip_43xx/inc/fpu_init.h \
  libs/lpc_board_ciaa_edu_4337/inc/board.h \
  libs/lpc_board_ciaa_edu_4337/inc/board_api.h \
- libs/lpc_chip_43xx/inc/lpc_types.h libs/sapi/inc/sapi_peripheral_map.h
+ libs/lpc_chip_43xx/inc/lpc_types.h libs/sapi/inc/sapi_peripheral_map.h \
+ app/inc/string.h

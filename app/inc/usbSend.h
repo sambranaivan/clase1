@@ -1,0 +1,1 @@
+void usbSend(char* result);

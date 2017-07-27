@@ -22,7 +22,9 @@ extern "C" {
 
 
 /*==================[declaraciones de funciones externas]====================*/
+void disk_timerproc(void);
 
+int main(void);
 
 /*==================[c++]====================================================*/
 #ifdef __cplusplus

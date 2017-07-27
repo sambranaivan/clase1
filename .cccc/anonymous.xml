@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module anonymous-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="187" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="40" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="56" level="0" />
+<lines_of_code_per_member_function value="********" level="2" />
+<lines_of_code_per_line_of_comment value="3.339" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="0.714" level="0" />
+<weighted_methods_per_class_unity value="6" level="0" />
+<weighted_methods_per_class_visibility value="0" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="0" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>PININT_IRQ_HANDLER(void)</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/programa.c" line="63" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="28" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>check_state(int,int,int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/checkState.c" line="8" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="app/inc/checkState.h" line="7" />
+</extent>
+<lines_of_code value="10" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>itoa(int,char *,int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/itoa.c" line="3" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="app/inc/itoa.h" line="1" />
+</extent>
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="7" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="3.500" level="0" />
+</member_function>
+<member_function>
+<name>main(void)</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/programa.c" line="81" />
+</extent>
+<lines_of_code value="17" level="0" />
+<McCabes_cyclomatic_complexity value="2" level="0" />
+<lines_of_comment value="16" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>obtenerDatos()</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/obtenerDatos.c" line="4" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="app/inc/obtenerDatos.h" line="3" />
+</extent>
+<lines_of_code value="13" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="2" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>stateMachine()</name>
+<extent>
+<description>definition</description>
+<source_reference file="app/src/stateMachine.c" line="9" />
+</extent>
+<extent>
+<description>declaration</description>
+<source_reference file="app/inc/stateMachine.h" line="5" />
+</extent>
+<lines_of_code value="124" level="2" />
+<McCabes_cyclomatic_complexity value="28" level="1" />
+<lines_of_comment value="6" level="0" />
+<lines_of_code_per_line_of_comment value="20.667" level="1" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="4.667" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>anonymous</name>
+<client_module>
+</client_module>
+<supplier_module>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>

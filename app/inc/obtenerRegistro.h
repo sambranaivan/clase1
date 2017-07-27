@@ -1,0 +1,2 @@
+
+char* obtenerRegistros(char* result);

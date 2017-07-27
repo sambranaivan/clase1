@@ -1,0 +1,1 @@
+int escribirSD(char* result);

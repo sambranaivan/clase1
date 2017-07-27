@@ -125,17 +125,17 @@ void stateMachine()
           if(check_state(0,0,1))
           {
 
-              //gpioWrite(LEDB,OFF);
-              //gpioWrite(LEDG,!gpioRead(PIN_1));
+              // gpioWrite(LEDB,OFF);
+              // gpioWrite(LEDG,!gpioRead(PIN_1));
               LEDCONTROL = LEDG;
-            ///SEÑAL SINCRONIZADA IR AL ESTADO INICIAL
+            //SEÑAL SINCRONIZADA IR AL ESTADO INICIAL
               
               STATE = 0;
           }
       break;
          case 13:
-              //gpioWrite(LEDG,OFF);
-              //gpioWrite(LEDR,!gpioRead(PIN_1));
+              // gpioWrite(LEDG,OFF);
+              // gpioWrite(LEDR,!gpioRead(PIN_1));
               //ESTADO DE ERROR 
               LEDCONTROL = LEDR;
       break;
