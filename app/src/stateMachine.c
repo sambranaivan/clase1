@@ -9,7 +9,6 @@ gpioMap_t LEDCONTROL = LEDB;
 void stateMachine()
 {
     
-    
   switch (STATE)
   	{
   		case 0:
