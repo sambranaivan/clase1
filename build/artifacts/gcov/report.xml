@@ -3,18 +3,30 @@
 	<FailedTests/>
 	<SuccessfulTests>
 		<Test id="1">
-			<Name>test/test_itoa.c::test_FrameworkOk</Name>
+			<Name>test/test_checkState.c::test_FrameworkOk</Name>
 		</Test>
 		<Test id="2">
-			<Name>test/test_obtenerDatos.c::test_FrameworkOk</Name>
+			<Name>test/test_itoa.c::test_FrameworkOk</Name>
 		</Test>
 		<Test id="3">
+			<Name>test/test_obtenerDatos.c::test_FrameworkOk</Name>
+		</Test>
+		<Test id="4">
+			<Name>test/test_obtenerRegistro.c::test_FrameworkOk</Name>
+		</Test>
+		<Test id="5">
+			<Name>test/test_sdCard.c::test_FrameworkOk</Name>
+		</Test>
+		<Test id="6">
 			<Name>test/test_stateMachine.c::test_FrameworkOk</Name>
+		</Test>
+		<Test id="7">
+			<Name>test/test_string.c::test_FrameworkOk</Name>
 		</Test>
 	</SuccessfulTests>
 	<IgnoredTests/>
 	<Statistics>
-		<Tests>3</Tests>
+		<Tests>7</Tests>
 		<Ignores>0</Ignores>
 		<FailuresTotal>0</FailuresTotal>
 		<Errors>0</Errors>

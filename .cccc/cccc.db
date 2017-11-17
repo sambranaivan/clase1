@@ -12,28 +12,53 @@ CCCC_ModExt@long@builtin@<nofile>@0@builtin definition@d?????@@0@d@
 CCCC_Module@void@builtin@
 CCCC_ModExt@void@builtin@<nofile>@0@builtin definition@d?????@@0@d@
 CCCC_Member@anonymous@PININT_IRQ_HANDLER@@(void)@
-CCCC_MemExt@anonymous@PININT_IRQ_HANDLER@@(void)@app/src/programa.c@63@definition@F????@LOC:6 COM:28 MVG:0@?@d@
+CCCC_MemExt@anonymous@PININT_IRQ_HANDLER@@(void)@app/src/programa.c@56@definition@F????@LOC:6 COM:22 MVG:0@?@d@
 CCCC_Member@anonymous@check_state@@(int,int,int)@
-CCCC_MemExt@anonymous@check_state@@(int,int,int)@app/src/checkState.c@8@definition@F????@LOC:10 COM:2 MVG:3@?@d@
+CCCC_MemExt@anonymous@check_state@@(int,int,int)@app/src/checkState.c@7@definition@F????@LOC:11 COM:1 MVG:3@?@d@
 CCCC_MemExt@anonymous@check_state@@(int,int,int)@app/inc/checkState.h@7@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_Member@anonymous@disk_timerproc@@(void)@
+CCCC_MemExt@anonymous@disk_timerproc@@(void)@app/inc/programa.h@25@declaration@F????@LOC:1 COM:4 MVG:0@?@D@
+CCCC_Member@anonymous@escribirSD@@(char *)@
+CCCC_MemExt@anonymous@escribirSD@@(char *)@app/src/sdCard.c@12@definition@FT???@LOC:16 COM:13 MVG:5@?@d@
+CCCC_MemExt@anonymous@escribirSD@@(char *)@app/inc/sdCard.h@1@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
 CCCC_Member@anonymous@itoa@@(int,char *,int)@
-CCCC_MemExt@anonymous@itoa@@(int,char *,int)@app/src/itoa.c@3@definition@F????@LOC:17 COM:2 MVG:7@?@d@
-CCCC_MemExt@anonymous@itoa@@(int,char *,int)@app/inc/itoa.h@1@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_MemExt@anonymous@itoa@@(int,char *,int)@app/src/itoa.c@2@definition@F????@LOC:17 COM:2 MVG:7@?@d@
+CCCC_MemExt@anonymous@itoa@@(int,char *,int)@app/inc/itoa.h@2@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
 CCCC_Member@anonymous@main@@(void)@
-CCCC_MemExt@anonymous@main@@(void)@app/src/programa.c@81@definition@F????@LOC:17 COM:16 MVG:2@?@d@
+CCCC_MemExt@anonymous@main@@(void)@app/src/programa.c@64@definition@F????@LOC:17 COM:15 MVG:2@?@d@
+CCCC_MemExt@anonymous@main@@(void)@app/inc/programa.h@27@declaration@F????@LOC:1 COM:0 MVG:0@?@D@
 CCCC_Member@anonymous@obtenerDatos@@()@
 CCCC_MemExt@anonymous@obtenerDatos@@()@app/src/obtenerDatos.c@4@definition@F????@LOC:13 COM:2 MVG:0@?@d@
-CCCC_MemExt@anonymous@obtenerDatos@@()@app/inc/obtenerDatos.h@3@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_MemExt@anonymous@obtenerDatos@@()@app/inc/obtenerDatos.h@4@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_Member@anonymous@obtenerRegistros@@(char *)@
+CCCC_MemExt@anonymous@obtenerRegistros@@(char *)@app/src/obtenerRegistro.c@5@definition@F????@LOC:27 COM:3 MVG:5@?@d@
+CCCC_MemExt@anonymous@obtenerRegistros@@(char *)@app/inc/obtenerRegistro.h@2@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_Member@anonymous@show_state@@()@
+CCCC_MemExt@anonymous@show_state@@()@app/src/checkState.c@20@definition@F????@LOC:8 COM:0 MVG:3@?@d@
 CCCC_Member@anonymous@stateMachine@@()@
 CCCC_MemExt@anonymous@stateMachine@@()@app/src/stateMachine.c@9@definition@F????@LOC:124 COM:6 MVG:28@?@d@
 CCCC_MemExt@anonymous@stateMachine@@()@app/inc/stateMachine.h@5@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_Member@anonymous@strcat@@(char *,const char *)@
+CCCC_MemExt@anonymous@strcat@@(char *,const char *)@app/src/string.c@3@definition@F????@LOC:11 COM:0 MVG:3@?@d@
+CCCC_MemExt@anonymous@strcat@@(char *,const char *)@app/inc/string.h@1@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
+CCCC_Member@anonymous@usbSend@@(char *)@
+CCCC_MemExt@anonymous@usbSend@@(char *)@app/src/usbSend.c@4@definition@F????@LOC:4 COM:0 MVG:0@?@d@
+CCCC_MemExt@anonymous@usbSend@@(char *)@app/inc/usbSend.h@1@declaration@F????@LOC:0 COM:0 MVG:0@?@D@
 CCCC_RejExt@app/src/checkState.c@1@<file scope items>@F????@LOC:0 COM:0 MVG:0@?@r@
 CCCC_RejExt@app/src/itoa.c@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
 CCCC_RejExt@app/src/obtenerDatos.c@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@app/src/obtenerRegistro.c@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
 CCCC_RejExt@app/src/programa.c@1@<file scope items>@F????@LOC:1 COM:1 MVG:0@?@r@
+CCCC_RejExt@app/src/sdCard.c@1@<file scope items>@FT???@LOC:3 COM:2 MVG:0@?@r@
 CCCC_RejExt@app/src/stateMachine.c@1@<file scope items>@F????@LOC:3 COM:1 MVG:0@?@r@
+CCCC_RejExt@app/src/string.c@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@app/src/usbSend.c@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
 CCCC_RejExt@app/inc/checkState.h@1@<file scope items>@F????@LOC:4 COM:0 MVG:0@?@r@
-CCCC_RejExt@app/inc/itoa.h@1@<file scope items>@F????@LOC:0 COM:0 MVG:0@?@r@
-CCCC_RejExt@app/inc/obtenerDatos.h@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
-CCCC_RejExt@app/inc/programa.h@1@<file scope items>@?????@LOC:3 COM:12 MVG:0@?@r@
+CCCC_RejExt@app/inc/itoa.h@1@<file scope items>@F????@LOC:1 COM:1 MVG:0@?@r@
+CCCC_RejExt@app/inc/obtenerDatos.h@1@<file scope items>@F????@LOC:1 COM:1 MVG:0@?@r@
+CCCC_RejExt@app/inc/obtenerRegistro.h@1@<file scope items>@F????@LOC:1 COM:0 MVG:0@?@r@
+CCCC_RejExt@app/inc/programa.h@1@<file scope items>@F????@LOC:3 COM:8 MVG:0@?@r@
+CCCC_RejExt@app/inc/sdCard.h@1@<file scope items>@F????@LOC:0 COM:0 MVG:0@?@r@
 CCCC_RejExt@app/inc/stateMachine.h@1@<file scope items>@F????@LOC:3 COM:0 MVG:0@?@r@
+CCCC_RejExt@app/inc/string.h@1@<file scope items>@F????@LOC:0 COM:0 MVG:0@?@r@
+CCCC_RejExt@app/inc/usbSend.h@1@<file scope items>@F????@LOC:0 COM:0 MVG:0@?@r@

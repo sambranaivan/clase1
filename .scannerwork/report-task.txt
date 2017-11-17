@@ -1,0 +1,7 @@
+organization=sambranaivan-github
+projectKey=Ciaaprovadorderele
+serverUrl=https://sonarcloud.io
+serverVersion=6.6.0.30458
+dashboardUrl=https://sonarcloud.io/dashboard/index/Ciaaprovadorderele
+ceTaskId=AV-tFxtQKRUdRrN4kTVE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AV-tFxtQKRUdRrN4kTVE
