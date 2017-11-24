@@ -127,7 +127,7 @@ void stateMachine()
               // gpioWrite(LEDB,OFF);
               // gpioWrite(LEDG,!gpioRead(PIN_1));
               LEDCONTROL = LEDG;
-            //SEÃ‘AL SINCRONIZADA IR AL ESTADO INICIAL
+            //SEÑAL SINCRONIZADA IR AL ESTADO INICIAL
               
               STATE = 0;
           }

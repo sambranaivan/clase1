@@ -16,6 +16,7 @@ void obtenerDatos()
             &xresult, buffsize, TRUE );
     
     //itoa(xresult,buff,10);
+
     uartWriteString(UART_USB,&xresult);
     //uartWriteString(UART_USB,buff);
 
