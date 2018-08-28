@@ -4,8 +4,10 @@
 void obtenerDatos()
 {
     uint8_t dataToReadBuffer;
+
     uint8_t Address;
     char xresult;
+
     char buff[10];
     int buffsize = 4;
    dataToReadBuffer = 0x00;
